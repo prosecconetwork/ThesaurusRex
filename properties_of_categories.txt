@@ -1,0 +1,753 @@
+
+
+Academic	[dispassionate, scholarly, teaching, analytical, lecturing, educated, unworldly, cerebral, reading, studying, questioning, erudite, examining, researching]
+
+Activist	[disgruntled, informed, angry, political, reforming, crusading, tireless, campaigning, intrepid, fervent, compassionate, outspoken, exiled, committed, marching, rousing, inspiring, vocal, concerned, impassioned, protesting, biased, feisty]
+
+Actor	[jobbing, dumb, starring, named, sophisticated, seasoned, struggling, celebrated, versatile, acclaimed, trained, dashing, polished, auditioning, compelling, esteemed, womanizing, distinguished, charming, onstage, recognized, costumed, convincing, singing, credited]
+
+Actress	[aging, jobbing, fetching, famous, seasoned, struggling, celebrated, acclaimed, trained, spoiled, accomplished, compelling, supporting, gifted, distinguished, admired, respected, charming, trim, photogenic, onstage, alluring, stunning, costumed, understated, appealing, convincing, singing, featured]
+
+Administrator	[qualified, advising, troubleshooting, scheduling, policymaking, monitoring, administrating, managing, capable, leading, planning, testing, supervising, organized, official, high_ranking, configuring, administering, authorizing, coordinating, overseeing, policing]
+
+Adulteress	[cheating, betraying, conniving, disgraceful, deceiving, lying, unfaithful, scheming, adulterous]
+
+Adventurer	[hotheaded, pioneering, fighting, roving, wayfaring, celebrated, full_blooded, adventurous, restless, dashing, ambitious, reckless, intrepid, wandering, irrepressible, spirited, heroic, amoral, courageous, bold, venturing, inspiring, plucky, daring, traveling, valiant, enterprising, adventuring, costumed, seeking, audacious, determined, dynamic, irresponsible]
+
+Advisor	[advising, consulting, counseling, knowledgeable, teaching, trusted, encouraging, educated, supervising, sagacious, coaching]
+
+Advocate	[eager, selfrighteous, unrelenting, crusading, ethical, campaigning, unyielding, encouraging, keen, articulate, supportive, compelling, supporting, committed, hardworking, unflagging, evangelical, eloquent, communicative, uncompromising, caring, vocal, concerned, protesting, brave, unswerving, advocating, convincing, persuasive, unwavering, unflinching, untiring]
+
+Alcoholic	[disgruntled, bloated, thirsty, guzzling, intoxicated, drinking, reformed, raving, alcoholic, obnoxious, addicted, soused, raging, crazed, relapsed, rehabilitated, irresponsible, deranged]
+
+Alien	[inhuman, deported, visiting, abroad, undocumented, slobbering, weird, incomprehensible, documented, suspicious, gruesome, traveling, confused, immigrating, alien, foreign, naturalized, invading]
+
+Analyst	[astute, informed, dispassionate, accounting, specific, briefed, advising, perceptive, knowledgeable, insightful, recommending, analytical, interpreting, experienced, credible, evaluating, rigorous, accredited, reporting, farsighted, numerate, predicting, analyzing, specialized, quantitative, incisive, researching, stockbroking]
+
+Android	[soulless, brainwashed, automatic, automated, sophisticated, engineered, emotionless, high_tech, humanized, computerized, artificial, malfunctioning, rational, mechanical, autonomous, mechanized, lifeless, programmed, synthetic]
+
+Animal	[ravening, startled, rutting, hunted, trapped, crouching, taming, cornered, thrashing, bellowing, roaring, screaming, trained, confined, grunting, chained, marauding, scared, prowling, threatening, grazing, caged, growling, infuriated, mating, disgusting, sacrificed, worked, abused, snarling, lumbering, depraved, moaning, captured, terrified, howling, devouring, raging, crazed, frightened, gnawing, starved, maddened, domesticated, rampaging, enraged, slaughtered, stuffed, crying, scavenging]
+
+Apostle	[blessed, hopeful, selfrighteous, ordained, honest, dedicated, righteous, pious, ardent, spiritual, fervent, zealous, preaching, evangelical, Christian, evangelizing, devout, inspired, devoted, sincere, untiring]
+
+Archeologist	[unearthing, pioneering, treasure_hunting, intrepid, digging, searching, excavating, discovering, uncovering, adventuring, exploring]
+
+Architect	[accurate, landscaping, skillful, qualified, drafting, licensed, certified, imaginative, educated, visual, engineering, planning, commissioned, designing, architectural, strategic, inspired, building, modern]
+
+Aristocrat	[endowed, debauched, courteous, flamboyant, sophisticated, imperious, ennobled, dashing, classy, spoiled, affluent, educated, privileged, aloof, ruling, unworldly, superior, lordly, wealthy, pampered, prestigious, charming, cultured, depraved, dandy, titled, suave, genteel, arrogant, haughty, scheming, charismatic, decadent, aristocratic]
+
+Artist	[romantic, revered, skillful, quirky, disciplined, signing, cosmopolitan, tortured, flamboyant, artistic, innovating, troubled, sculpting, famous, sophisticated, celebrated, dedicated, teaching, drawing, bohemian, sensitive, imaginative, intellectual, skilled, painting, tormented, intuitive, practicing, thrilling, artful, visual, accomplished, recording, gifted, enlightened, admired, free, commissioned, prestigious, designing, respected, creative, engraving, carving, creating, daring, flighty, dreaming, unconventional, mercurial, obsessed, conceiving, adroit, inspired, conducting, curious, featured, crafting, credited, uncompromising]
+
+Ascetic	[private, righteous, modest, spiritual, celibate, abstinent, gaunt, self_effacing, solitary]
+
+Assassin	[unfriendly, coldblooded, clandestine, remorseless, stalking, lurking, brainwashed, shooting, infamous, rapid, emotionless, convicted, killing, bold, unsentimental, feared, acrobatic, quiet, unemotional, quick, sinister, deadly, ruthless, secretive, devious, vicious, bloodthirsty, crazed, murdering, fanatic, decisive, programmed, lethal, deranged, accused, calculating]
+
+Assistant	[troubleshooting, assisting, helping, accompanying, aiding, helpful, supporting, overworked, hardworking, harried, abetting, junior, shadowing]
+
+Astronaut	[pioneering, marooned, crashlanding, adventurous, intrepid, stranded, heroic, spacewalking, floating, spacesuited, orbiting, drifting, ferried, launched, moonwalking, exploring, weightless]
+
+Astronomer	[stargazing, observing, gazing, scanning]
+
+Atheist	[cynical, irreligious, secular, skeptical]
+
+Athlete	[wrestling, conditioned, disciplined, sculpted, macho, honed, toned, dieting, struggling, sporty, manly, dedicated, trained, winning, sponsored, chiseled, skiing, weightlifting, injured, clean_cut, swimming, fatigued, energetic, motivated, skating, qualifying, gifted, lithe, strong, active, excited, running, athletic, training, driven, playing, fit, focused, sinewy, adroit, fast, throwing, handsome, healthy, peppy, competing, determined, boxing, recruited, dynamic, physical, competitive, lean, poised, agile]
+
+Autocrat	[strict, unelected, authoritarian, ruling, reigning, dictatorial, ruthless, governing, persecuting, reviled, decreeing, tyrannical, oppressive, oppressing]
+
+Bachelor	[roving, dashing, uncommitted, carefree, free, charming, unmarried, swinging, partying, unattached]
+
+Baker	[flouring, selling, cooking, mixing, baking, kneading, whisking, rolling, traditional]
+
+Bank Robber	[armed, dishonest, thieving, covetous, intrusive, crooked, stealing, threatening, stealthy, daring, masked, demanding, robbing, bold, cunning, scheming, unscrupulous, methodical, greedy, materialistic, calculating, nefarious, wealthy, rich]
+
+Bankrupt	[hopeless, broke]
+
+Barbarian	[savage, brawny, macho, wenching, fierce, fighting, husky, predatory, pigheaded, barbarous, rude, burly, marauding, smashing, killing, conquering, fearsome, rapacious, violent, unsophisticated, brutish, furious, carousing, ruthless, painted, irreligious, impolite, masculine, mighty, bloody, hulking, bloodthirsty, raging, uncouth, pillaging, crazed, brutal, unrestrained, mindless, barbaric, rampaging, enraged, ferocious, filthy, pugilistic, physical, raping, obstinate]
+
+Barman	[affable]
+
+Baseball Player	[manly]
+
+Basketball Player	[nimble, tall]
+
+Bigot	[misguided, uninformed, spewing, malicious, abhorrent, uneducated, prejudiced, vile, raving, xenophobic, superior, disgusting, obnoxious, snarling, irrational, crass, furred, narrowminded, hating, arrogant, ignorant, raging, spouting, unkind, unreconstructed, hateful, insensitive]
+
+Billionaire	[successful, flamboyant, ostentatious, flashy, influential, privileged, generous, wealthy, extravagant, rich, pampered, arrogant, respected]
+
+Biologist	[categorizing, scientific, cataloging, studying, dissecting, probing, researching]
+
+Bird	[delicate, ravening, soaring, clawed, startled, chattering, pretty, ruffled, trapped, ensnared, feathered, beaked, roving, small, waddling, animated, hovering, tamed, gilded, perching, fluttering, thieving, chanting, fossilized, melodious, strutting, flapping, frolicsome, tuneful, swift, roosting, scared, wandering, contented, bobbing, tethered, whistling, homing, graceful, roaming, trussed, darting, foraging, natural, molting, swooping, caged, instinctive, wee, feathery, basted, carefree, chirruping, nesting, quick, free, aerodynamic, snared, winged, nestling, light, charming, crested, circling, brooding, cheerful, hunting, sweet, perched, diving, flitting, squawking, chirpy, plucked, gliding, fishing, flighty, gay, hatched, ringed, moulting, speckled, twittering, humming, preening, songful, fast, screeching, flying, banded, frightened, trembling, gobbling, plumed, mottling, freed, happy, tweeting, mottled, endangered, singing, blithe, wading, hooded, weightless, camouflaged, hatching, warbling, chirping]
+
+Bodybuilder	[beefy, brawny, macho, dieting, dedicated, bulging, accomplished, glistening, developed, strong, muscular, oiled, training, competing, hefty, buff, lean]
+
+Bore	[dreary, depressing, passionless, tedious, dull, crushing, selfrighteous, forgettable, unimaginative, exhausting, uneventful, unfunny, cheerless, numbing, boring, grinding, tiresome, monotonous, punishing, uninspiring, dour, soporific, frustrating, maddening, talkative, chatty, humourless]
+
+Boss	[commanding, delegating, overbearing, bossing, leading, controlling, supervising, obnoxious, governing, high_ranking, dominant, arrogant, bullying, demanding, overseeing]
+
+Bounty Hunter	[tough]
+
+Bowler	[fast_bowling, pitching, bowling, playing, spinning, rolling]
+
+Boxer	[beefy, brawny, macho, weaving, fighting, husky, toned, pugnacious, burly, groggy, manly, dancing, trained, injured, bobbing, tired, solid, aggressive, jabbing, muscular, athletic, training, robust, fit, sinewy, sparring, punching, determined, hefty, feisty, striking, buff, pugilistic, physical]
+
+Broker	[licensed, advising, consulting, networking, unbiased, counseling, knowledgeable, trusted, intermediating, dealing, commissioned, intermediate, connecting, regulated]
+
+Brother	[trustworthy, kind, close, agreeable, reliable, trusted, loving, dear, familiar, affectionate, helpful, appreciated, supportive, true, inseparable, loyal, faithful, estranged, concerned, trusting, nice, loved, devoted]
+
+Buffoon	[silly, bungling, dull, joking, talentless, clowning, incapable, grinning, clumsy, mangling, obnoxious, confused, arrogant, lighthearted, unsuccessful, mindless, inarticulate, bumbling, irresponsible]
+
+Builder	[husky, banking, burly, developing, planning, hardworking, designing, building, constructing]
+
+Bully	[unfriendly, childish, conceited, cruel, husky, rude, burly, domineering, malicious, taunting, spoiled, overbearing, bothersome, smug, threatening, cynical, feared, intimidating, controlling, coercive, obnoxious, menacing, mean, hated, ruthless, crass, nasty, tactless, belligerent, vindictive, cowardly, abusive, impolite, swaggering, arrogant, confrontational, selfish, haughty, vicious, manipulative, raging, teasing, bullying, blustering, oppressive, irritating, unattractive, egotistical, physical, insensitive, sadistic]
+
+Bureaucrat	[disgruntled, soulless, bloated, dispassionate, unelected, sluggish, bungling, complacent, daydreaming, myopic, staid, unimaginative, overburdened, overbearing, appointed, privileged, overworked, organized, harried, meddling, entrenched, official, ponderous, unsympathetic, faceless, plodding, cautious, slow_moving, bureaucratic, disillusioned, bored, scheming, bustling, impersonal, centralized, mindless, bumbling]
+
+Business Leader	[influential]
+
+Businessman	[diversifying, exploiting, sophisticated, capitalistic, adept, advertising, taxpaying, profiting, enterprising, trading, marketing, commercial, scheming, hardheaded, canny, pinstriped, determined, moneymaking, investing, calculating, profitable]
+
+Campaigner	[disciplined, political, seasoned, dogged, crusading, dedicated, campaigning, motivated, planning, committed, hardened]
+
+Canary	[melodic, perched, twittering, tweeting, singing, chirping]
+
+Cannibal	[savage, disturbed, predatory, barbarous, pitiless, convicted, primitive, killing, monstrous, cannibalizing, starving, ravenous, terrifying, bloody, eating, howling, bloodthirsty, devouring, crazed, brutal, murdering, barbaric, deranged, horrifying]
+
+Capitalist	[enriched, bloated, unethical, charging, banking, sophisticated, thriving, ambitious, marauding, capitalistic, amoral, privileged, cynical, flourishing, booming, ruthless, greedy, untamed, freewheeling, enterprising, trading, decentralized, deregulated, hardened, commercial, profiteering, hardheaded, unrestrained, competing, enriching, unbridled]
+
+Captain	[disciplined, commanding, seasoned, uniformed, dashing, courageous, accomplished, leading, supervising, distinguished, commissioned, ranking, decorated]
+
+Captive	[imprisoned, jailed, tortured, miserable, incarcerated, guarded, shackled, unwilling, confined, tied, liberated, scared, squirming, unfree, powerless, caged, distressed, escaped, detained, bound, whimpering, cowering, constrained, captured, arrested, restricted, blindfolded, cringing, manacled, hooded]
+
+Cat	[declawed, agile, spotted, noiseless, sensual, uneasy, fastidious, startled, stalking, climbing, yowling, spry, patient, rescued, crouching, lurking, neat, sleepy, jumping, smart, supple, sleeping, steady, alert, cornered, wailing, moody, spitting, soft, lazy, scolded, grinning, screaming, independent, restless, tidy, sensitive, jumpy, grooming, sleek, skinned, amicable, screechy, swift, spoiled, scared, nervous, squirming, contented, smiling, thin, leaping, smug, prowling, mewling, graceful, catty, roaming, tense, striped, belled, amoral, hairy, stealthy, arched, vaccinated, drooling, fickle, quiet, quick, detached, pampered, lithe, finicky, shapely, light, mewing, active, snarling, vigilant, still, wary, purring, snoozing, hunting, coughing, furred, unconcerned, spayed, nimble, silent, elusive, stretching, hissing, adaptable, satisfied, moaning, gentle, arching, self_centered, fluffy, neutered, howling, selfish, domestic, fast, screeching, napping, frightened, scratching, demanding, spooked, pouncing, reserved, happy, relaxed, domesticated, sanitary, clean, playful, content, smooth, curious, cunning, dozing, mellow, wily, meowing, cool]
+
+Caveman	[dumb, moronic, obsolete, primitive, unsophisticated, cranky, regressive]
+
+CEO	[anointed, appointed, managing, leading, supervising, admired, presiding]
+
+Charlatan	[bumptious, shrewd, unscientific, duplicitous, immoral, cynical, disreputable, tricky, ineffective, ineffectual, manipulative, charismatic, unprofessional, corrupt, incompetent]
+
+Cheat	[plagiarizing, exposed, philandering, unethical, impeached, cheating, thieving, defrauding, furtive, swindling, conniving, crooked, duplicitous, immoral, disreputable, backstabbing, lying, snaffling, scamming, confessed, scheming, detected, calculating]
+
+Chef	[expert, fastidious, boasting, cooking, skilled, accomplished, baking, exacting, roasting]
+
+Chess Player	[careful, patient, calculative]
+
+Child	[disgruntled, misguided, delicate, squalling, weeping, baptized, trustful, underdeveloped, childish, undisciplined, adopted, disinherited, startled, blessed, eager, petrified, hopeful, whining, nagging, rescued, treasured, high_pitched, daydreaming, indulged, hiding, frank, slumbering, fascinated, weaned, helpless, agreeable, frail, small, sleeping, optimistic, animated, shouting, deluded, merry, vulnerable, wailing, cradled, frustrated, moody, soft, scolded, grinning, screaming, sheltered, reliant, guileless, bullied, inexperienced, dribbling, lisping, nursed, sensitive, hyperactive, bawling, clumsy, beaming, frolicsome, naked, spoiled, scared, stubborn, weak, ingenuous, squirming, blubbering, contented, smiling, punished, stammering, endearing, carried, mewling, overtired, delighted, dimpled, spirited, loving, simple, dear, mischievous, tired, powerless, joyful, foolish, uncomplicated, bewildered, peaceful, overindulged, affectionate, fostered, naive, unsophisticated, simpering, unworldly, fussy, vaccinated, carefree, pouting, drooling, chastised, quiet, pleased, praying, nurtured, learning, free, suckling, cute, whimpering, tender, pampered, babied, spanked, dependent, glad, chastened, artless, lying, babbling, excited, mistreated, giddy, crawling, enthusiastic, irrational, sweet, impressionable, cowering, sobbing, pleading, swaddled, laughing, dreaming, puzzled, toddling, fragile, playing, innocent, moaning, gentle, questioning, terrified, precious, docile, giggling, self_centered, confused, immature, ignorant, timid, young, howling, molested, victimized, entertaining, screeching, shrieking, trusting, shivering, napping, frightened, coddled, loved, blonde, staring, wearied, demanding, trembling, bashful, appealing, impatient, devoted, healthy, happy, obedient, petted, susceptible, naughty, insecure, careless, conceived, youthful, humble, playful, content, beautiful, smooth, crying, curious, submissive, bumbling, sniveling, orphaned, terrorized, wild, unruly, sulking, stuttering, thoughtless, feeble, harmless, pure]
+
+Clerk	[typing, routing, assisting, authorized, recording, supervising, overworked, harried, flustered, billing, processing, attending]
+
+Clown	[prat_falling, silly, messy, conspicuous, animated, goofy, merry, juggling, absurd, dancing, grinning, clumsy, amusing, smiling, endearing, cheery, striped, mischievous, foolish, laughable, cute, ridiculous, excited, multicolored, painted, jocular, laughing, gay, witty, masked, costumed, entertaining, tumbling, unprofessional, leering, lighthearted, funny, hilarious, happy, naughty, singing, jolly, bumbling, white_faced, irresponsible]
+
+Colonel	[ordering, strategizing, commanding, uniformed, leading, commissioned, ranking, decorated, saluted]
+
+Comedian	[edgy, bungling, joking, clowning, goofy, merry, acerbic, amusing, humorous, clever, jocular, witty, entertaining, charismatic, lighthearted, funny, hilarious, irreverent, bumbling, comic]
+
+Communist	[liberal, unelected, brainwashed, suspected, unreformed, raving, branded, disillusioned, centralized, unreconstructed, discredited, left]
+
+Competitor	[overtaking, seasoned, dogged, winning, contesting, threatening, spirited, challenging, feared, playing, competing, determined, opposing, competitive]
+
+Complainer	[tedious, accusative, irritable, boring, critical, irate, bitter, demanding, disagreeable]
+
+Composer	[romantic, expert, eminent, artistic, musical, recorded, expressive, scoring, imaginative, unpublished, lyrical, artful, recording, orchestrating, creative, improvising, uncompromising, composing, inspired, conducting]
+
+Computer	[accurate, advanced, manufactured, powerful, unplugged, executing, literal, networking, smart, scanning, disembodied, inanimate, automated, sophisticated, connected, engineered, versatile, calibrated, emotionless, complex, computing, analytical, modern, infallible, functional, decoding, hijacked, counting, amoral, interconnected, thinking, overheating, digitized, infected, complicated, logical, unemotional, speedy, rigid, malfunctioning, networked, scientific, hightech, deterministic, rational, assembled, hacked, objective, autonomous, exact, fast, impersonal, efficient, powered, processing, mechanized, functioning, wired, programmed, technical, crashing, quantitative, installed, calculating]
+
+Con Man	[shifty, deceptive, shady, crafty, duplicitous, sleazy, tricky, phony, manipulative, convincing]
+
+Conqueror	[successful, fighting, defeating, barbarous, firm, celebrated, euphoric, ambitious, conquering, rapacious, feared, confident, inspiring, ruthless, ravaging, crowned, mighty, arrogant, haughty, fortunate, vanquishing, invading]
+
+Conservative	[disciplined, whining, brainwashed, political, staid, stifling, dogmatic, practical, infuriated, boring, raving, old_fashioned, preaching, narrowminded, cautious, cranky, prolife, hardened, retrograde, spouting, unreconstructed]
+
+Consultant	[informed, qualified, advising, consulting, networking, counseling, contracted, teaching, professional, trusted, hired, educated, experienced, planning, designing, training, reviewing, marketing, billing, specialized, coaching]
+
+Contestant	[winning, contesting, losing, eliminated, competing, competitive]
+
+Convict	[imprisoned, jailed, incarcerated, shackled, infamous, confined, convicted, chained, executed, reformed, escaping, escaped, hardened, restricted, fettered, sentenced, accused]
+
+Cop	[armed, shooting, interrogating, dogged, crusading, dedicated, plainclothed, uniformed, corrupted, arresting, protecting, patrolling, hardboiled, wisecracking, busting, hardened, investigating, grizzled]
+
+Counsellor	[licensed, advising, consulting, counseling, certified, trusted, encouraging, interested, guiding, discreet, influencing, mentoring, nurturing, understanding, credentialed]
+
+Cowboy	[yodeling, bowlegged, heterosexual, stoic, romanticized, husky, ranching, galloping, burly, avenging, manly, gunslinging, adventurous, reckless, laconic, wandering, western, casual, uneducated, roaming, rambunctious, spirited, unsophisticated, old_fashioned, weathered, boisterous, tough, daring, folksy, masculine, swaggering, drifting, hardened, cocky, rowdy, riding, taciturn, uncouth, slouched, steely, singing, sexy, wrangling, grizzled]
+
+Coyote	[stalking, ensnared, sneaky, territorial, stealing, marauding, wandering, prowling, crafty, depredating, rangy, starving, barking, snared, wary, hunting, cowardly, timid, howling, fast, canny, wily, wild, ugly]
+
+Crab	[clawed, boiled, shelled, steamed, angry, sour, snapping, ungainly, hard_shelled, molting, scurrying, fried, crawling, burrowing, cracked, smashed, clinging, ugly]
+
+Crank	[misguided, quirky, nutty, deluded, paranoid, mad, churlish, weird, annoying, loony, unhinged, unscientific, gaga, raving, wacky, disreputable, cantankerous, batty, unreasonable, humorless, crazy, daft, eccentric, bitter, unconventional, cranky, ranting, queer, humourless]
+
+Creator	[revered, pioneering, conscious, masterful, gifted, designing, inspiring, creative, creating, exalted, inspired, building, crafting, original]
+
+Criminal	[looting, culpable, cynical, imprisoned, charged, clandestine, jailed, tattooed, armed, twisted, heinous, unethical, odious, interrogated, hunted, incarcerated, fleeing, deceptive, unprincipled, kidnapping, smuggling, thieving, identified, seedy, convicted, stealing, chained, beheaded, marauding, executed, shady, killing, fearsome, callous, pardoned, hanged, despicable, amoral, reformed, caged, immoral, escaping, feared, escaped, proscribed, unscrupulous, committed, sinister, suspicious, menacing, released, lying, ruthless, depraved, counterfeiting, branded, abusing, illegal, captured, unlawful, devious, masked, hardened, crucified, confessed, scheming, condemned, wanted, arrested, guilty, criminal, murdering, gibbeted, indicted, alleged, diabolical, sentenced, irresponsible, deranged, accused, sinful]
+
+Crooner	[tuneful, lyrical, crooning, songful, singing, warbling]
+
+Curmudgeon	[unfriendly, grumpy, snappish, churlish, irritable, prickly, unlovable, gruff, cantankerous, cross, irate, cranky, disagreeable]
+
+Cyborg	[bloodless, unrelenting, emotionless, resilient, armored, ruthless, mechanical, indestructible]
+
+Cyclist	[whizzing, cycling, riding, peddling, healthy]
+
+Damsel	[frolicsome]
+
+Dancer	[elegant, twirling, choreographed, pretty, artistic, fluid, stripping, musical, mesmerizing, dedicated, dancing, leggy, expressive, dizzy, loose_jointed, lyrical, enchanting, leaping, pirouetting, graceful, sinuous, acrobatic, free, surefooted, lithe, whirling, nimble, athletic, gliding, alluring, spinning, sprightly, costumed, entertaining, adroit, lissom, funky, balanced, jolly, veiled, sexy, buff, poised]
+
+Daredevil	[fearless, imprudent, reckless, game, bold, daring, cocky, impatient, dynamic, irresponsible]
+
+Daughter	[dutiful, cherished, loving, doting, caring, loved, devoted]
+
+Deadbeat	[unenthusiastic, contemptible, crestfallen, unproductive, unambitious, incapable, shady, tired, undistinguished, nondescript, valueless, uncouth, unsuccessful, worthless, despairing, sorry]
+
+Debtor	[borrowing, burdened, overburdened, struggling, unfree, distressed, discharged, liable, insured, defaulting, owing]
+
+Delinquent	[flouting, annoying, punished, violating, vandalizing, rehabilitated, youthful, irritating, accused]
+
+Demon	[soulless, haunting, inhuman, twisted, disturbed, grim, bad, fierce, fighting, deceptive, lurking, misshapen, slumbering, summoned, snapping, malicious, roaring, grinning, screaming, terrible, fearsome, threatening, monstrous, mischievous, unclean, scary, caged, immoral, burning, uncontrollable, troublesome, immortal, slavering, disgusting, demented, ravenous, horrid, sinister, winged, menacing, malignant, snarling, lying, hated, crawling, ruthless, possessed, fiery, mocking, cursed, laughing, foul, fearful, moaning, supernatural, mighty, devious, hulking, howling, demonic, bloodthirsty, devouring, shrieking, raging, crazed, leering, resurrected, attacking, horned, murdering, loathsome, rampaging, enraged, unpleasant, diabolical, deranged]
+
+Designer	[landscaping, artistic, versatile, decorating, painting, visual, creative, engineering, designing, confident, architectural, inspired, building, modeling]
+
+Despot	[coldblooded, inhuman, strict, heinous, cruel, unfeeling, malicious, abhorrent, terrible, heartless, capricious, unhinged, authoritarian, monstrous, despicable, vile, immoral, ruling, feared, merciless, unreasonable, mean, hated, reigning, dictatorial, absolute, ruthless, evil, depraved, nasty, unsympathetic, despised, dreadful, dominant, arrogant, demonic, haughty, vicious, bloodthirsty, crazed, self_serving, demanding, brutal, criminal, tyrannical, murdering, stern, unkind, oppressive, wicked, deranged, sadistic]
+
+Detective	[astute, tenacious, interrogating, dogged, analytical, arresting, hardboiled, clever, ingenious, methodical, solving, brooding, hunting, inquiring, observant, rumpled, questioning, hardened, obsessed, investigating, tracking, thorough, probing, grizzled]
+
+Developer	[developing, planning, designing, building, constructing]
+
+Devil	[twisted, lurking, pigheaded, malicious, roaring, grinning, terrible, smiling, cheeky, monstrous, scary, clever, burning, blaspheming, horrid, sinister, snarling, tempting, evil, nasty, mocking, cursed, laughing, supernatural, devious, howling, scheming, raging, crazed, leering, horned, wicked, rampaging, sinning, diabolical, cunning, obstinate]
+
+Diarist	[revealing, honest, preserving, documenting, recording, blogging, summarizing]
+
+Dictator	[detestable, inhuman, strict, remorseless, armed, odious, commanding, barbarous, paranoid, appalling, thieving, imperious, abhorrent, ambitious, killing, threatening, heartless, capricious, authoritarian, monstrous, despicable, ruling, raving, feared, lordly, exiled, intimidating, controlling, merciless, unreasonable, sinister, menacing, lying, hated, reigning, dictatorial, ruthless, evil, entrenched, depraved, nasty, delusional, belligerent, despised, dreadful, questioning, mercurial, dominant, swaggering, demonic, vicious, bloodthirsty, manipulative, crazed, self_serving, bullying, demanding, grandiose, criminal, presidential, tyrannical, murdering, stern, unkind, oppressive, decisive, diabolical, installed, deranged]
+
+Director	[artistic, advising, commanding, directing, managing, leading, planning, supervising, creative, instructing, demanding, conducting, coaching]
+
+Disciplinarian	[unforgiving, rigorous, haughty, unbending]
+
+Discoverer	[adventurous, intrepid, respected, renowned]
+
+Dissident	[disgruntled, imprisoned, jailed, banned, discontented, tortured, purged, suppressed, political, disrupting, toppling, repressed, defiant, persecuted, exiled, detained, blacklisted, radical, revolting, vocal, protesting, harassed, embittered]
+
+District Attorney	[serious, accusative]
+
+Divorcee	[emotional]
+
+Doctor	[accurate, informed, qualified, prescribing, careful, licensed, learned, neat, professional, trained, ethical, certified, trusted, dashing, treating, practicing, educated, credible, curing, accomplished, clinical, supportive, respected, hygienic, caring, healing, concerned, reputable, masked, meticulous, registered, understanding, thorough, diagnosing, probing]
+
+Dog	[ravening, excitable, spotted, wheezing, friendly, trustful, farting, yapping, sterilised, biddable, peeing, attentive, restrained, hungry, tortured, unleashed, shedding, charging, whining, dumb, hunted, panting, fighting, trapped, crouching, whelping, muzzled, lapping, leashed, sleeping, coursing, animated, snappish, angry, goofy, snapping, cornered, stupid, dutiful, frumpy, cowed, thieving, social, trusty, territorial, lazy, scolded, grinning, trained, limping, confined, slobbering, loveable, tied, chained, crated, straying, marauding, scared, wandering, vomiting, kicked, squirming, contented, tethered, smiling, prowling, shaking, threatening, endearing, shaggy, roaming, nodding, hanged, delighted, loving, digging, tired, damned, caged, goodnatured, chasing, growling, affectionate, beaten, sweating, gasping, stinking, scrappy, vaccinated, amiable, slavering, drooling, ornery, humping, lovable, quick, famished, sterilized, scalded, frothing, barking, whimpering, furry, yelping, trailing, strong, menacing, biting, snarling, lying, grateful, mistreated, crawling, loyal, sneaking, running, quarrelsome, hunting, coughing, matted, cowering, faithful, furred, bedraggled, wagging, spayed, hardworking, tailed, droopy, infested, gentle, whipped, terrified, lowly, baying, docile, yawning, neutered, confused, horny, sniffing, snoring, howling, coated, vicious, domestic, fast, shivering, crazed, frightened, scratching, starved, companionable, spooked, attacking, devoted, registered, trotting, begging, obedient, tame, domesticated, wriggling, sincere, unattractive, humble, tracking, submissive, striking, unmuzzled, dirty, dozing, ugly, licking, scourged]
+
+Dreamer	[romantic, dreamy, philosophical, idealizing, sleepwalking, slumbering, sleeping, optimistic, deluded, warmhearted, idealistic, imaginative, irrepressible, spirited, positive, lethargic, romanticizing, broadminded, daft, dreaming, unfulfilled, confused, inspired, dozing, undisciplined, addled]
+
+Drifter	[aimless, lonely, independent, transient, laconic, untethered, homeless, detached, purposeless, rambling, solitary, taciturn, lonesome, unattached]
+
+Driver	[trucking, driving, racing, speeding, dispatched]
+
+Drummer	[thumping, drumming, pounding, rhythmic, playing, tapping, banging]
+
+Drunkard	[aimless, crude, intoxicated, stupid, groggy, roaring, slobbering, unemployed, reformed, impure, stumbling, alcoholic, stinking, unsteady, reeling, brawling, boisterous, staggering, ineffective, tone_deaf, pissed, rowdy, ineffectual, raging, partying, coarse, drunk, irresponsible, ragged]
+
+Duck	[downy, toothless, feathered, quacking, waddling, snapping, perching, lame, flapping, swimming, bobbing, trussed, grazing, feathery, barbecued, nesting, marinated, diving, plucked, dabbling, banded, splashing, mottled, domesticated, fattened, roasted]
+
+Dwarf	[teeny, misshapen, short, tiny, undeveloped, gruff, stunted, bearded, hirsute, squat, deformed]
+
+Economist	[mathematical, advising, monitoring, bean_counting, forecasting, predicting, analyzing, modeling, reasoning, researching, scientific]
+
+Embezzler	[embezzling, cheating, convicted, stealing, duplicitous, accused]
+
+Emperor	[revered, eminent, lofty, noble, hailed, magisterial, commanding, rich, senior, merry, famous, august, celebrated, imperious, elected, acclaimed, regal, stately, important, conquering, proud, leading, ruling, lordly, wealthy, reigning, dictatorial, royal, exalted, depraved, deified, dignified, magnificent, great, crowned, dominant, mighty, arrogant, haughty, scheming, impressive, enthroned, grandiose, extravagant, decadent, majestic, grand]
+
+Engineer	[qualified, disciplined, licensed, knowledgeable, competent, analytical, coding, educated, engineering, prototyping, thinking, developing, planning, pragmatic, testing, methodical, designing, tinkering, programming, mining, surveying, manufacturing, debugging, meticulous, exact, systematic, building, modeling, specialized, technical, calculating]
+
+Entertainer	[performing, diverting, easygoing, amusing, delighting, captivating, witty, suave, uplifting, entertaining, charismatic, singing, engaging]
+
+Executive	[accountable, presidential, corporate]
+
+Exile	[disgruntled, dreary, banned, isolated, lonely, miserable, hunted, fleeing, remote, overseas, abroad, disgraced, ejected, wandering, unhappy, dispossessed, alone, persecuted, absent, escaped, exiled, unwelcome, sad, alien]
+
+Explorer	[fearless, pioneering, hopeful, indomitable, wayfaring, celebrated, adventurous, restless, dashing, ambitious, intrepid, wandering, heroic, courageous, bold, venturing, shipwrecked, inspiring, discovering, daring, traveling, autonomous, seeking, exploring, determined, dynamic, curious, probing]
+
+Fascist	[armed, unelected, extreme, ruling, raving, sinister, radical, ruthless, obsessed, vicious, bloodthirsty, crazed, bullying, tyrannical, murdering]
+
+Fashion Designer	[fashionable, stylish]
+
+Fashion Model	[thin, photogenic]
+
+Father	[revered, strict, exasperated, serious, kind, close, firm, domineering, forgiving, thoughtful, honored, overbearing, protective, compassionate, delighted, loving, familiar, proud, founding, leading, generous, lordly, frowning, controlling, admired, doting, preaching, mature, respected, meddling, disapproving, responsible, deified, caring, nurturing, concerned, gentle, married, loved, sympathetic, adored, devoted, venerated, sincere, understanding]
+
+Feminist	[butch, empowered, unrepressed, campaigning, liberated, outspoken, assertive, marching, dour, humorless, uncompromising, obsessed, ranting, raging, spouting, ball_busting, empowering, enraged, feisty, humourless]
+
+Fence	[barred, separating, dumb, screening, steady, barbed, chained, spiked, electrified, protecting, galvanized, weathered, fortified, encircling, gated, whitewashed, dividing, surrounding]
+
+Fighter	[beefy, armed, disciplined, brawny, fearless, indomitable, fighting, pugnacious, tenacious, parrying, kicking, trained, adventurous, dashing, wounded, killing, fearsome, doomed, thrusting, heroic, undaunted, feared, scrappy, solid, brutish, bombing, jabbing, tough, daring, manoeuvrable, dominant, brave, sparring, fast, defending, responsive, attacking, punching, determined, boxing, maneuverable, feisty, pugilistic]
+
+Fool	[clueless, misguided, silly, chattering, eager, bungling, miserable, whining, dumb, tedious, dull, brainwashed, talentless, deluded, blathering, stupid, absurd, boasting, malicious, unreliable, incapable, blameless, grinning, screaming, slobbering, guileless, perplexed, obtuse, reckless, blabbering, stubborn, wandering, blubbering, unintelligent, smiling, stammering, blundering, gaping, damned, foolish, oblivious, naive, raving, stumbling, simpering, befuddled, bleating, laughable, drooling, brainless, whimpering, illiterate, ridiculous, unimpressive, babbling, irrational, prating, crass, dimwitted, rambling, laughing, dreaming, gullible, sputtering, doddering, fearful, blinded, gibbering, giggling, confused, ignorant, ranting, crazed, frightened, staring, unsuccessful, confounded, happy, blustering, incompetent, careless, drunk, inarticulate, forgetful, bumbling, besotted, motley, stuttering, deranged, addled]
+
+Footballer	[injured, footballing, surefooted, athletic, masculine, passing, fit, defending, tackling, striking]
+
+Forecaster	[prescient, informative, surprised]
+
+Foreigner	[deported, visiting, overseas, abroad, undocumented, perplexed, incomprehensible, documented, vacationing, confused, immigrating, alien, foreign, naturalized, invading]
+
+Freak	[tattooed, twisted, odd, disturbed, isolated, bad, mutated, miserable, depressed, misshapen, peculiar, talentless, scummy, unnatural, unsavory, unlucky, weird, fugly, unlovable, bizarre, unpopular, drooling, disgusting, demented, hideous, mutilated, terrifying, nasty, neurotic, cross_eyed, creepy, obsessed, antisocial, unsexy, queer, crazed, murdering, disfigured, retarded, abnormal, strange, unattractive, unpleasant, deformed, ugly, perverted, deranged, horrifying]
+
+Friend	[trustworthy, friendly, trustful, solicitous, close, visiting, treasured, frank, agreeable, forgiving, helping, reliable, trusty, thoughtful, cherished, confiding, unthreatening, trusted, comforting, invited, amicable, endearing, compassionate, loving, dear, familiar, approachable, affectionate, helpful, appreciated, supportive, considerate, generous, amiable, supporting, dependable, listening, cooperative, loyal, welcoming, valued, faithful, beloved, caring, estranged, candid, cordial, trusting, nice, loved, companionable, sympathetic, appealing, understanding, touching, befriending]
+
+Frontiersman	[adventurous]
+
+Fugitive	[isolated, miserable, hunted, fleeing, sheltered, unhappy, escaping, desperate, elusive, captured, wanted, frightened, evading, accused]
+
+Geek	[quirky, spotty, smart, goofy, bullied, weird, coding, engineering, gangly, boring, unpopular, drooling, meek, programming, blogging, creepy, obsessed, antisocial, unsexy, introverted, bashful, scrawny, strange, technical, bumbling, hacking, retentive]
+
+General	[ordering, disciplined, strategizing, commanding, senior, uniformed, conquering, leading, commissioned, ranking, strategic, high_ranking, decorated, saluted, presidential]
+
+Genius	[extraordinary, twisted, pioneering, commanding, smart, overlooked, brilliant, sophisticated, farseeing, celebrated, acclaimed, masterful, imaginative, towering, tormented, irrepressible, prodigious, educated, clever, ingenious, accomplished, acknowledged, gifted, enlightened, admired, blazing, staggering, temperamental, brooding, creative, sparkling, exalted, farsighted, undeniable, unconventional, mercurial, stunning, devious, shining, obsessed, scheming, inspired, considerable, diabolical, undisputed, dazzling, deranged]
+
+Gentleman	[courteous, well_behaved, fastidious, sociable, learned, agreeable, affable, sophisticated, refined, well_groomed, dashing, classy, civilized, affluent, educated, privileged, accomplished, virtuous, polite, courtly, distinguished, respected, charming, mild_mannered, cultured, chivalrous, congenial, dignified, dandy, honorable, debonair, suave, genteel, cordial, respectable, impeccable, suited, companionable, hospitable, decorous, gallant]
+
+Girlfriend	[loving]
+
+Gladiator	[beefy, indomitable, toned, pugnacious, manly, fearsome, violent, strong, sinewy, vicious, pugilistic]
+
+God	[worshipped, glorious, benevolent, revered, godly, lofty, eternal, fearless, blessed, awesome, powerful, angry, avenging, forgiving, imperious, regal, infallible, mythological, contented, ideal, fearsome, worshiped, compassionate, protecting, loving, privileged, ruling, immortal, lordly, descended, admired, punishing, immanent, reigning, presiding, inspiring, perfect, limitless, glowing, exalted, terrifying, personified, invulnerable, magnificent, radiant, bronzed, great, healing, crowned, mighty, merciful, ancient, shining, haughty, sacred, awe_inspiring, demanding, resurrected, venerated, all_knowing, beautiful, blessing, wise, majestic, infinite, offended]
+
+Grump	[unfriendly, grumpy, churlish, irritable, gruff, cantankerous, cross, grizzled]
+
+Guitarist	[performing, jamming, strumming, fingering, improvising, fingerpicking, plucking, playing, riffing, flatpicking, singing]
+
+Guru	[expert, revered, eminent, philosophical, mastering, blessed, anointed, selfrighteous, counseling, knowledgeable, competent, celebrated, acclaimed, spiritual, contemplative, leading, enlightened, prestigious, evangelical, reigning, adept, inspiring, mentoring, training, meditative, charismatic, meditating, all_knowing, profound, sagacious, renowned, wise, coaching]
+
+Hacker	[disgruntled, unwanted, bypassing, clandestine, networking, uploading, malicious, thieving, cracking, convicted, stealing, furtive, intruding, penetrating, coding, crafty, mischievous, infiltrating, feared, gifted, unscrupulous, invasive, sneaking, programming, unwelcome, devious, obsessed, trespassing, attacking, harmful, determined, intrusive, alleged, hacking]
+
+Hedonist	[self_indulgent, hedonistic, uninhibited, decadent]
+
+Helper	[serving, contributing, assisting, helping, encouraging, collaborating, aiding, helpful, supportive, supporting, facilitating, donating, volunteering]
+
+Hero	[worshipped, wrestling, revered, extraordinary, lofty, armed, fearless, awesome, pioneering, hailed, indomitable, sacrificing, fighting, commanding, famous, crusading, manly, celebrated, acclaimed, cherished, idealistic, winning, adventurous, steadfast, honored, dashing, towering, intrepid, clean_cut, laconic, wounded, irrepressible, conquering, endearing, doomed, altruistic, spirited, heroic, idealized, undaunted, goodnatured, courageous, bold, accomplished, appreciated, virtuous, scrappy, acknowledged, likable, committed, distinguished, unflappable, captivating, admired, strong, respected, charming, inspiring, deadly, brooding, plucky, exalted, toasted, daring, chivalrous, deified, beloved, glittering, dignified, decorated, great, alluring, valiant, swaggering, masked, shining, brave, brash, devout, charismatic, resolute, inspired, worthy, glorified, attacking, adored, appealing, devoted, martyred, handsome, happy, selfless, honoured, determined, assured, gallant, unflinching, feisty, conscientious, dazzling]
+
+Heroine	[spunky, awesome, adventurous, heroic, goodnatured, plucky, brave]
+
+Hippie	[aging, activist, unpatriotic, liberal, nonviolent, shaggy, stinky, carefree, unshaven, soulful, bearded, anachronistic, earthy, laidback, hirsute, stoned, mellow, addled]
+
+Historian	[unearthing, eminent, dispassionate, scholarly, careful, unprejudiced, unbiased, insightful, chronicling, educated, archiving, articulate, historical, detached, respected, versed, eloquent, cultural, uncovering, studying, questioning, erudite, informative, probing, researching, cited]
+
+Host	[courteous, hosting, introducing, sociable, mingling, trusted, greeting, considerate, cooperative, charming, welcoming, congenial, entertaining, cordial, accommodating, hospitable, gracious]
+
+Humanist	[liberal, ethical, rational, secular, skeptical]
+
+Humorist	[ridiculing, joking, scoffing, biting, mocking, entertaining, mordant, teasing, parodying, insulting]
+
+Hunter	[armed, stalking, luring, predatory, shooting, baiting, tenacious, carnivorous, dashing, intrepid, killing, crafty, angling, ruthless, pursuing, hunting, skinning, fishing, trapping, sharp_eyed, vicious, seeking, tracking]
+
+Husband	[solicitous, close, newlywed, cheating, dutiful, thoughtful, compassionate, loving, dear, cuckolded, affectionate, supportive, intimate, loyal, faithful, wedded, estranged, concerned, married, loved, jilted, sympathetic, devoted, understanding]
+
+Informant	[communicative, secretive, aware, talkative, chatty]
+
+Intellectual	[condescending, eminent, scholarly, systematizing, philosophizing, explaining, bohemian, intellectual, smug, educated, contemplative, superior, cerebral, hypothesizing, chic, arguing, questioning, arrogant, theorizing, erudite, inspired, rationalizing, reasoning, incisive, probing, researching]
+
+Intruder	[unwanted, clandestine, unauthorized, armed, uninvited, predatory, rude, malicious, unexpected, furtive, intruding, threatening, troublesome, sinister, suspicious, invasive, daring, impolite, unwelcome, masked, surreptitious, confrontational, attacking, hooded, intrusive, hacking]
+
+Invalid	[handicapped, incapable, reliant, lame, limited, powerless, awkward, sick, valueless, unsuccessful, worthless, incompetent, feeble]
+
+Inventor	[groundbreaking, sharp_sighted, pioneering, innovating, smart, farseeing, imaginative, intrepid, clever, ingenious, patenting, tinkering, creative, discovering, creating, prolific, farsighted, enterprising, inventing, inspired, reimagining]
+
+Investor	[selective, diversified, banking, capitalizing, selling, capitalistic, dealing, cashing_out, scammed, subscribing, venturing, prudent, bidding, buying, anxious, gambling, defrauded, bought_out, financing, enterprising, leveraged, commercial, bilked, underwriting, investing, calculating, profitable]
+
+Janitor	[hardworking, unpretentious]
+
+Journalist	[informed, unbiased, perceptive, writing, tenacious, dogged, crusading, insightful, inquisitive, campaigning, trusted, dashing, intrepid, published, syndicated, outspoken, broadcasting, blogging, daring, inquiring, reporting, observant, reviewing, questioning, reputable, nosey, objective, entertaining, investigating, incisive, probing, researching, grizzled]
+
+Judge	[informed, qualified, godly, dispassionate, strict, serious, restrained, anointed, advising, learned, unforgiving, unbiased, perceptive, honest, impartial, recused, elected, sober, legal, scoring, trusted, deciding, persistent, diligent, issuing, appointed, prompt, sitting, discreet, robed, capable, judging, ruling, virtuous, sentencing, prudent, neutral, distinguished, mature, critical, presiding, responsible, unsympathetic, dignified, solemn, reviewing, innocent, reputable, assessing, objective, stern, punctual, determined, wise, grave]
+
+Killer	[unfriendly, coldblooded, inhuman, remorseless, armed, stalking, heinous, conscienceless, cutthroat, lurking, pitiless, convicted, killing, fearsome, prowling, dreaded, callous, violent, despicable, unsentimental, feared, unemotional, sinister, menacing, hated, ruthless, depraved, chilling, creepy, bloody, obsessed, scheming, vicious, bloodthirsty, crazed, nuts, guilty, criminal, murdering, determined, enraged, diabolical, lethal, deranged, accused, sinful]
+
+King	[worshipped, revered, godly, eminent, lofty, noble, successful, self_indulgent, anointed, powerful, magisterial, learned, commanding, rich, ordained, merry, famous, crusading, august, celebrated, protected, honored, regal, throned, dashing, stately, spoiled, overbearing, important, comfortable, contented, conquering, dreaded, authoritarian, delighted, privileged, sitting, proud, robed, leading, ruling, served, generous, lordly, exiled, historical, courtly, admired, wealthy, pampered, prestigious, respected, charming, untouchable, reigning, royal, assassinated, exalted, cultural, chivalrous, deified, beloved, dignified, magnificent, gay, titled, honorable, great, crowned, dominant, mighty, arrogant, haughty, mummified, attended, impressive, enthroned, fortunate, consecrated, worthy, adored, handsome, happy, venerated, extravagant, kingly, majestic, unapproachable, vanquished, grand, poised, cultured]
+
+Knight	[courteous, armed, fearless, charging, fighting, gilded, crusading, celebrated, righteous, amorous, jousting, adventurous, trusted, dashing, stately, skilled, intrepid, wandering, conquering, spirited, heroic, courageous, bold, accomplished, virtuous, armored, generous, courtly, strong, respected, charming, questing, silvered, tough, mounted, daring, chivalrous, magnificent, armoured, honorable, valiant, dubbed, shining, brave, devout, worthy, devoted, plumed, convincing, gallant, vanquishing, chaste, vanquished]
+
+Lackey	[compliant, adoring, obsequious, biddable, brainwashed, summoned, dispensable, slobbering, uniformed, trusted, subservient, conniving, powerless, scurrying, slavering, obeying, menacing, loyal, depraved, lowly, fawning, devoted, junior, mindless, inferior, submissive, low_level]
+
+Lady	[courteous, well_behaved, pretty, helpless, demure, sophisticated, soft, refined, prim, well_groomed, classy, civilized, womanly, virtuous, polite, respected, charming, congenial, dignified, ladylike, titled, alluring, genteel, cordial, respectable, decorous, beautiful, veiled]
+
+Lawyer	[expert, qualified, bad, licensed, advising, learned, smart, knowledgeable, professional, legal, trusted, practicing, conniving, crooked, educated, discreet, accomplished, articulate, prestigious, eloquent, communicative, scheming, defending, disbarred, prepared, convincing, persuasive, corporate, smarmy]
+
+Leader	[revered, eminent, successful, strategizing, fighting, commanding, domineering, august, dedicated, elected, winning, policymaking, campaigning, team_building, trusted, honored, dashing, important, established, challenging, capable, accomplished, leading, ruling, appreciated, planning, acknowledged, exiled, distinguished, admired, mature, prestigious, respected, accountable, confident, versed, reigning, notable, elevated, recognized, valued, daring, high_ranking, dignified, crowned, brash, charismatic, adored, presidential, determined, assured, poised]
+
+Linguist	[fluent]
+
+Loner	[disgruntled, quirky, self_reliant, unsociable, isolated, lonely, miserable, stoic, depressed, excluded, moody, independent, alienated, laconic, aloof, alone, unpopular, detached, anonymous, unconcerned, tightlipped, shy, solitary, obsessed, antisocial, crazed, lonesome, deranged]
+
+Lover	[romantic, sensual, desired, lingering, solicitous, attentive, close, eager, betrayed, optimistic, flattering, soft, dedicated, amorous, ardent, cherished, snuggling, erotic, trusted, dashing, avid, unrequited, tormented, caressing, interested, appreciative, endearing, fervent, spurned, compassionate, loving, dear, motivated, familiar, affectionate, willing, considerate, ravishing, committed, doting, intimate, tender, infatuated, charming, glad, passionate, excited, warm, lovemaking, sighing, sweet, sentimental, faithful, beloved, caring, dreaming, observant, longing, concerned, smoldering, alluring, gentle, impassioned, obsessed, scheming, subtle, loved, jilted, sympathetic, adored, devoted, happy, jealous, persuasive, scorned, understanding, wronged, besotted]
+
+Machine	[accurate, soulless, uncomplaining, dispassionate, whirring, patented, passionless, unconscious, flashing, automatic, inanimate, automated, unfeeling, relentless, impartial, inorganic, emotionless, configured, intricate, unintelligent, insensate, straightforward, unthinking, overheating, grinding, unemotional, quick, malfunctioning, immaculate, predetermined, rational, unsympathetic, controlled, mechanical, consistent, assembled, hacked, repaired, humming, insensible, exact, exploited, fast, impersonal, controllable, determinate, obedient, determined, mechanized, functioning, lifeless, unmanned, crashing, installed, calculating]
+
+Madman	[armed, twisted, disturbed, unstable, fighting, shooting, cackling, shouting, cursing, deluded, malicious, yelling, grinning, screaming, confined, chained, reckless, smiling, leaping, unhinged, monstrous, raving, escaped, demented, whacky, frothing, sinister, irrational, ruthless, evil, possessed, depraved, rambling, swinging, gibbering, giggling, obsessed, howling, ranting, demonic, scheming, vicious, bloodthirsty, raging, crazed, inspired, nuts, murdering, happy, strange, diabolical, perverted, deranged, addled]
+
+Magician	[expert, skillful, spellbinding, awesome, powerful, mesmerizing, conjuring, riveting, trained, deft, fleet, clever, accomplished, gifted, dexterous, amazing, mighty, devious, hypnotic, entertaining, magical]
+
+Maiden	[blushing, rescued, demure, prim, enchanting, shocked, celibate, luscious, virtuous, unmarried, immaculate, spotless, blooming, waiting, garlanded, bashful, youthful, untouched, coy]
+
+Malcontent	[disgruntled, misguided, whining, complaining, unhappy, whinging, irritable, cynical, peevish, unsatisfied, irate, bitter, disagreeable]
+
+Manager	[representative, organizing, advising, scheduling, handling, overbearing, dealing, managing, controlling, supervising, groomed, organized, accountable, governing, high_ranking, training, regulating, demanding, overseeing]
+
+Maniac	[armed, twisted, cackling, shouting, deluded, yelling, grinning, screaming, waving, reckless, monstrous, raving, escaped, slavering, drooling, frothing, ruthless, possessed, depraved, laughing, gibbering, giggling, obsessed, howling, ranting, vicious, bloodthirsty, raging, crazed, nuts, murdering, perverted, deranged]
+
+Mascot	[representative, totemic, adopted, animated, dancing, cheering, talismanic, supporting, promoting, fundraising, advertising, marketing, costumed, entertaining, loved]
+
+Mastermind	[culpable, twisted, strategizing, devising, plotting, conniving, ingenious, planning, cerebral, strategic, dominant, scheming, manipulating, audacious, coordinating, cunning]
+
+Mathematician	[mathematical, precise, unambiguous, analytical, educated, rigorous, numerate, esoteric, profound]
+
+Mayor	[political, sitting, respectable]
+
+Mentor	[trustworthy, revered, qualified, sensible, helping, teaching, insightful, trusted, encouraging, interested, compassionate, helpful, supervising, admired, respected, inspiring, responsible, mentoring, caring, nurturing, concerned, instructive, sagacious, understanding, enlightening, coaching]
+
+Mercenary	[soulless, plundering, disciplined, treacherous, fighting, begrimed, unprincipled, seasoned, shrewd, dashing, ambitious, marauding, wandering, bought, hired, imported, cynical, merciless, ruthless, gritty, hardened, disillusioned, bloodthirsty, untrustworthy, self_serving, recruited, unattached]
+
+Messiah	[blessed, merciful]
+
+Millionaire	[enriched, flamboyant, rich, spending, ostentatious, dashing, spoiled, affluent, privileged, wealthy, pampered, happy, investing, splurged, respected]
+
+Miser	[freeloading, miserable, penny_pinching, tight, annoying, covetous, skint, stingy, mooching, mean, greedy, hoarding, bargain_hunting, uncharitable, skinny, sparing]
+
+Mistress	[cheating, spoiled, spurned, loving, dear, pampered, lovely, alluring, scheming, jilted, demanding, adored, jealous]
+
+Mogul	[dominating, overbearing, sleazy, leading, ruling, intimidating, controlling, distinguished, pampered, reigning, ruthless]
+
+Monk	[unromantic, philosophical, scholarly, cowled, patient, learned, ordained, shaved, chanting, pious, sober, modest, spiritual, wandering, practicing, celibate, contemplative, deep, religious, tonsured, robed, zealous, abstinent, quiet, sombre, praying, enlightened, preaching, somber, bald, true, meek, sexless, gaunt, silent, reclusive, self_effacing, healing, solitary, fat, meditative, devout, begging, reserved, stern, hooded, drunk, cloistered, humble, chaste, moral]
+
+Monster	[soulless, ravening, bloated, coldblooded, inhuman, clawed, inhumane, remorseless, savage, twisted, stalking, heinous, fearless, grim, bad, unleashed, cruel, mutated, frightening, hunted, fierce, crushing, crouching, lurking, fictional, misshapen, engorged, slumbering, predatory, thundering, summoned, pitiless, scummy, thrashing, unnatural, spewing, appalling, unfeeling, infamous, clunky, colossal, bellowing, roaring, insatiable, screaming, slobbering, emotionless, starting, weird, stomping, morphing, marauding, towering, mythological, lurching, tormented, squirming, killing, fearsome, threatening, dreaded, rapacious, heartless, callous, feral, resilient, monstrous, gaping, despicable, scary, vile, writhing, shambling, caged, scaly, growling, gluttonous, devastating, uncontrollable, raving, stinky, feared, bizarre, slavering, drooling, brutish, furious, disgusting, brainless, merciless, eerie, ravenous, horrid, sinister, winged, slithering, menacing, hideous, biting, snarling, hated, mutilated, sprawling, crawling, brooding, ruthless, evil, lumbering, revolting, hunting, ravaging, depraved, nasty, snorting, chilling, cursed, creeping, gruesome, foul, dreadful, creepy, mighty, bloody, devious, eating, imposing, implacable, hulking, obsessed, howling, demonic, vicious, bloodthirsty, devouring, shrieking, raging, giant, indestructible, repulsive, uncouth, crazed, enormous, brutal, gobbling, attacking, criminal, horned, brazen, murdering, mindless, barbaric, disfigured, loathsome, strange, unattractive, rampaging, enraged, flawed, immense, shocking, unpleasant, ferocious, diabolical, hateful, unmanageable, filthy, deformed, looming, perverted, deranged, horrifying, sadistic]
+
+Mother	[weeping, benevolent, exasperated, careful, solicitous, kind, attentive, close, nagging, patient, hovering, domineering, struggling, soft, forgiving, scolding, smothering, thoughtful, loveable, tidy, comforting, overbearing, exhausted, soothing, fecund, protective, compassionate, delighted, loving, tired, nursing, familiar, goodnatured, proud, birthing, supportive, watching, generous, vaccinated, lovable, nesting, overworked, doting, true, tender, warm, meddling, disapproving, responsible, sweet, sobbing, beloved, caring, nurturing, concerned, worried, gentle, flustered, married, feeding, clinging, laboring, loved, sympathetic, devoted, selfless, sincere, welcome, understanding, touching, breastfeeding]
+
+Motorcyclist	[motoring, whizzing, driving, helmeted, padded, speeding, riding]
+
+Mouse	[noiseless, squeaking, teeny, grey, gray, placid, small, cornered, dragged, tiny, unimportant, mute, furtive, scared, weak, foraging, powerless, nibbling, poor, scurrying, quiet, quick, cute, furry, meek, still, insignificant, furred, squealing, nimble, silent, shy, lowly, erratic, timid, fast, corded, frightened, gnawing, mobile, fuzzy, unnoticed, harmless]
+
+Musician	[performing, artistic, musical, dancing, skilled, practicing, strumming, recording, distinguished, busking, touring, composing, playing, humming, entertaining, inspired, rocking, singing]
+
+Nanny	[tending, nagging, nursing, supervising, caring, nurturing, nice]
+
+Narcissist	[vain, conceited, prancing, myopic, deluded, boasting, bragging, proud, immodest, malignant, neurotic, self_admiring, self_obsessed, swaggering, self_centered, cocky, arrogant, preening, selfish, brash, grandiose, egocentric, egotistical, thoughtless]
+
+Nazi	[exposed, saluting, raving, depraved, crazed, murdering, slaughtering, accused]
+
+Necromancer	[spellbinding, malignant, macabre]
+
+Neighbour	[adjoining, bordering, sharing, neighboring]
+
+Nerd	[smart, goofy, educated, engineering, boring, unpopular, drooling, blogging, gaming, obsessed, antisocial, unsexy, introverted, bashful, scrawny, strange, technical, bumbling, retentive]
+
+Nihilist	[contemptible, cynical]
+
+Nobleman	[enriched, courteous, refined, imperious, ennobled, dashing, classy, spoiled, conniving, educated, privileged, virtuous, superior, lordly, distinguished, wealthy, pampered, ranking, cultured, chivalrous, dignified, titled, honorable, genteel, arrogant, haughty, gallant, aristocratic]
+
+Novelist	[artistic, writing, imaginative, storytelling, published, articulate, penning, eloquent, bestselling, translated, authoring, dramatizing, crafting]
+
+Nun	[plain, calm, patient, ordained, proper, frumpy, sober, modest, spiritual, nervous, repressed, celibate, wimpled, compassionate, religious, virtuous, prudent, abstinent, quiet, praying, true, respected, worshipping, sexless, faithful, decent, wholesome, spotless, self_effacing, innocent, gentle, shy, serene, devoted, clean, holy, cloistered, veiled, chaste, moral, pure, revered, strict, stern, devout]
+
+Nurse	[tending, hands_on, trained, certified, uniformed, practicing, compassionate, nursing, caring, nurturing, healing, concerned, gentle]
+
+Obsessive	[myopic, reckless, anxious, ruthless, singleminded, driven, focused, resolute, fanatic, hypertensive]
+
+Octopus	[squirming, gangly, writhing, wet, wiggly, slippery, chewy, slippy, sprawling, tentacled, repulsive, wriggly, wriggling, slimy]
+
+Ogre	[bad, cruel, dumb, frightening, fierce, dangerous, grumpy, stupid, yelling, stomping, heartless, monstrous, scary, vile, huge, famished, merciless, ravenous, horrid, cross, strong, menacing, hideous, mean, evil, lumbering, terrifying, snorting, tactless, vindictive, gruesome, reclusive, foul, cranky, implacable, hulking, vicious, bloodthirsty, devouring, giant, inelegant, enormous, brutal, tall, barbaric, wicked, unattractive, unpleasant, ferocious, embittered, ugly, horrifying]
+
+Old Man	[withered, wheezing, toothless, grumbling, grieving, shriveled, widowed, tired, stumbling, balding, drooling, aged, bereaved, weathered, crippled, bearded, coughing, retired, decaying, dignified, doddering, gnarled, disillusioned, ranting, dying, wrinkled, tottering, grizzled, addled]
+
+Oppressor	[coldblooded, cruel, abhorrent, callous, authoritarian, vile, merciless, hated, dictatorial, ruthless, nasty, harsh, vicious, tyrannical, unkind]
+
+Orator	[expressive, speaking, persuading, lecturing, articulate, compelling, gifted, distinguished, orotund, arguing, inspiring, poetic, eloquent, communicative, orating, charismatic, presenting, fluent, convincing, persuasive]
+
+Orphan	[spunky, unwanted, adopted, streetwise, troubled, institutionalized, deprived, neglected, unloved, abandoned, destitute, underprivileged, unhappy, forlorn, impoverished, mournful, desperate, dependent, mistreated, plucky, disaffected, traumatized, orphaned]
+
+Outcast	[unwanted, unsociable, isolated, nonconforming, lonely, miserable, hunted, crestfallen, troubled, excluded, alienated, disgraced, defeated, weird, wandering, unhappy, stranded, dispossessed, alone, unlovable, distressed, shunned, absent, unpopular, exiled, blacklisted, hated, reclusive, despised, solitary, inadequate, unfortunate, unwelcome, sad, undesirable, valueless, worthless, lonesome, shamed, strange, inferior, ragged]
+
+Outdoorsman	[adventurous]
+
+Outsider	[edgy, quirky, unsociable, isolated, remote, excluded, alienated, unlovable, detached, reclusive, unconventional, lonesome, alien, foreign, unattached]
+
+Painter	[careful, pioneering, hands_on, artistic, trained, imaginative, painting, visual, deft, accomplished, gifted, dexterous, commissioned, creative, collected, inspired]
+
+Parent	[exasperated, solicitous, close, nagging, outraged, forgiving, scolding, helping, smothering, overbearing, experienced, compassionate, delighted, loving, proud, helpful, supportive, controlling, doting, harried, disapproving, responsible, caring, nurturing, concerned, flustered, fulfilled, parenting, adopting, loved, sympathetic, obligated, understanding]
+
+Performer	[performing, artistic, confident, onstage, playing, singing, assured, poised]
+
+Pervert	[molesting, kinky, scummy, unsavory, weird, convicted, immoral, disgraceful, sleazy, bizarre, drooling, disgusting, depraved, creepy, obsessed, queer, repulsive, crazed, leering, abnormal, profane, strange, slimy, filthy, quivering, perverted, deranged, sexual]
+
+Pet	[tamed, endearing, domesticated]
+
+Philanthropist	[benevolent, kind, charitable, admirable, altruistic, goodnatured, generous, decent, caring, benign]
+
+Philosopher	[philosophical, serious, scholarly, stoic, learned, philosophizing, counseling, sensible, insightful, ethical, intellectual, penetrating, guiding, educated, contemplative, articulate, thinking, logical, distinguished, cerebral, rigorous, enlightened, enlightening, detached, intelligent, prestigious, bearded, brooding, eloquent, dignified, dreaming, puzzled, questioning, meditative, meditating, erudite, profound, sagacious, wise, probing, cited]
+
+Physicist	[mathematical, trained, analytical, educated, experimenting, cerebral, studying, theorizing, analyzing, probing, researching]
+
+Pianist	[performing, tinkling, jamming, accomplished, improvising, playing, riffing]
+
+Pickpocket	[streetwise, inconspicuous, sneaky, crafty, deft, discreet, dexterous, offensive, tricky, daring, subtle, adroit, slick]
+
+Pig	[butchered, bloated, rutting, untidy, rooting, pigheaded, stupid, lazy, screaming, warty, grunting, disrespectful, plugged, clumsy, smoked, stubborn, contented, uneducated, unclean, gluttonous, slow, smelly, sweating, stinky, stinking, barbecued, bigoted, noisy, disgusting, sacrificed, obnoxious, flabby, lying, bleeding, gutted, greased, wallowing, greedy, nasty, squealing, snorting, tasty, satisfied, abusive, oinking, self_centered, fat, omnivorous, arrogant, ignorant, snoring, selfish, decapitated, devouring, salted, gross, domesticated, coarse, unattractive, slaughtered, fattened, stuffed, pink, dirty, roasted, insensitive, ugly, thoughtless, obstinate]
+
+Pilot	[disciplined, steering, licensed, commanding, sober, certified, dashing, grounded, driving, furloughed, navigating, daring, piloting, flying, rated]
+
+Pioneer	[revered, groundbreaking, self_reliant, fearless, sharp_sighted, pioneering, innovating, indomitable, flinty, farseeing, celebrated, adventurous, masterful, homesteading, imaginative, honored, ambitious, intrepid, heroic, ingenious, bold, founding, acknowledged, distinguished, admired, respected, notable, inspiring, daring, farsighted, valiant, enterprising, inventing, inspired, determined, renowned, vigorous]
+
+Pirate	[plundering, armed, unethical, cutthroat, predatory, roving, barbarous, manly, infamous, thieving, suspected, screaming, convicted, swearing, dashing, marauding, fearsome, thrilling, dreaded, crafty, raiding, courageous, bold, feared, lusty, merciless, sinister, menacing, charming, bearded, shipwrecked, tough, ruthless, daring, cursed, dreadful, swaggering, hardened, rowdy, brave, scheming, vicious, bloodthirsty, uncouth, pillaging, crusty, attacking, murdering, pirating, swarthy, wicked, dishonest, coarse, uncharitable, jolly, vigorous, hijacking, wily]
+
+Plant	[sprouting, wilting, flowering, potted, thriving, uprooted, cultivated, rooted, pollinated, wilted, natural, growing, organic, flourishing, branching, planted, harvested, creeping, manufacturing, blooming, blossoming, budding]
+
+Playboy	[debauched, vain, philandering, heterosexual, self_indulgent, showy, cheating, ostentatious, sophisticated, amorous, flashy, hedonistic, dashing, reckless, spoiled, privileged, randy, carefree, womanizing, wealthy, pampered, glib, charming, uninhibited, depraved, swinging, debonair, suave, gregarious, charismatic, extravagant, lecherous, blithe, decadent, irresponsible]
+
+Playwright	[writing, storytelling, published, staging, penning, commissioned, inspired, dramatizing]
+
+Poet	[romantic, philosophical, artistic, learned, conscious, perceptive, famous, celebrated, thoughtful, idealistic, expressive, sensitive, imaginative, dashing, intuitive, lyrical, graceful, contemplative, loving, poignant, poetical, articulate, gifted, distinguished, admired, penning, resonant, passionate, brooding, poetic, creative, eloquent, sweet, sentimental, composing, observant, rhyming, meditative, inspired, reciting, beautiful, wise]
+
+Policeman	[armed, bungling, trained, uniformed, corrupted, detaining, arresting, protecting, patrolling, courageous, unarmed, watchful, stern, recruited, investigating, bumbling]
+
+Political Leader	[shifty, disingenuous, politicized, unprincipled, political, cheating, crusading, territorial, elected, campaigning, influential, corrupted, polished, ambiguous, conniving, crooked, crafty, oily, sitting, leading, ruling, cynical, exiled, deceitful, preaching, intelligent, glib, charming, accountable, lying, assassinated, scripted, dignified, despised, pandering, devious, ranting, diplomatic, scheming, adroit, untrustworthy, self_serving, peddling, canny, promising, corrupt, wicked, dishonest, partisan, smooth, calculating, smarmy]
+
+Politician	[shifty, disingenuous, politicized, unprincipled, political, cheating, crusading, territorial, elected, campaigning, influential, corrupted, polished, ambiguous, conniving, crooked, crafty, oily, sitting, leading, ruling, cynical, exiled, deceitful, preaching, intelligent, glib, charming, accountable, lying, assassinated, scripted, dignified, despised, pandering, devious, ranting, diplomatic, scheming, adroit, untrustworthy, self_serving, peddling, canny, promising, corrupt, wicked, dishonest, partisan, smooth, calculating, smarmy]
+
+Pope	[revered, serious, blessed, hailed, ordained, senior, celebrated, pious, elected, Catholic, canonized, infallible, dogmatic, loving, robed, leading, ruling, distinguished, pontificating, reigning, elevated, crowned, Christian, consecrated, beatified, martyred, holy, unapproachable]
+
+Pornographer	[kinky, pornographic, erotic, seedy, sleazy, filthy, sexual]
+
+Preacher	[godly, serious, spellbinding, learned, selfrighteous, ordained, righteous, idealistic, spiritual, fervent, religious, zealous, articulate, old_fashioned, compelling, distinguished, preaching, respected, passionate, evangelical, inspiring, eloquent, possessed, instructive, impassioned, prolife, ranting, inspired, straitlaced, stern, holy, convincing, decorous, persuasive, sincere, conscientious, moral]
+
+Predator	[coldblooded, inhuman, armed, stalking, heinous, frightening, dangerous, lurking, predatory, carnivorous, territorial, shrewd, convicted, marauding, fearsome, prowling, threatening, rapacious, crafty, foraging, feral, fanged, feared, aggressive, intimidating, merciless, ravenous, strong, menacing, circling, deadly, tough, ruthless, formidable, hunting, depraved, terrifying, watchful, sharp_eyed, vicious, feeding, bloodthirsty, attacking, determined, unmanned, invading]
+
+Presenter	[demonstrating, speaking, promoting, presenting, defending]
+
+President	[impeached, senior, smart, famous, crusading, elected, campaigning, influential, honored, appointed, sitting, leading, ruling, exiled, distinguished, admired, prestigious, respected, reigning, presiding, elevated, assassinated, exalted, high_ranking, dignified, great, respectable, presidential, unapproachable]
+
+Pretender	[disingenuous, deceptive, talentless, imitative, disreputable, phony]
+
+Priest	[revered, laicized, serious, reverent, kind, anointed, sacrificing, learned, ordained, forgiving, dedicated, Catholic, sober, trusted, spiritual, repressed, educated, compassionate, officiating, religious, tonsured, initiated, robed, praying, preaching, respected, worshipping, presiding, meddling, exalted, decent, caring, healing, Christian, sacred, consecrated, sympathetic, devoted, holy, excommunicated, understanding, devout, chaste]
+
+Prime Minister	[senior, high_ranking]
+
+Primitive	[uneducated, unsophisticated, superstitious, aboriginal]
+
+Prince	[revered, presentable, disinherited, rich, enchanted, celebrated, refined, imperious, honored, regal, dashing, spoiled, contented, conquering, graceful, privileged, purple, ruling, generous, lordly, exiled, courtly, distinguished, enlightened, wealthy, pampered, charming, reigning, brooding, cheerful, royal, cultured, exalted, daring, chivalrous, governing, beloved, caring, honorable, crowned, arrogant, shining, haughty, enthroned, fortunate, favored, nice, worthy, handsome, happy, honoured, perfumed, gallant, beautiful, dazzling, poised]
+
+Princess	[spunky, dreamy, vain, pretty, fetching, enchanted, sheltered, regal, spoiled, enchanting, high, privileged, polite, courtly, wealthy, pampered, charming, reigning, sparkling, royal, cultured, exalted, adorned, ladylike, pretentious, glamorous, lovely, radiant, crowned, perky, special, stunning, arrogant, haughty, sparkly, fresh, gorgeous, adored, happy, beautiful, gracious, dazzling, poised]
+
+Principal	[scheduling, teaching, leading, supervising, coordinating, overseeing]
+
+Prisoner	[disgruntled, imprisoned, miserable, guarded, shackled, confined, tied, defeated, convicted, chained, unfree, unhappy, powerless, caged, escaping, bound, abused, constrained, captured, hardened, condemned, handcuffed, arrested, guilty, restricted, manacled, fettered, wronged, accused]
+
+Producer	[outsourcing, producing, exporting, packaging, advertising, manufacturing, shipping, distributing]
+
+Professional	[qualified, reputed, licensed, seasoned, dedicated, professional, trained, certified, authorized, trusted, accomplished, committed, bonded, respected, accredited, impeccable, assured]
+
+Professor	[endowed, informed, eminent, strict, serious, learned, smart, counseling, tenured, teaching, analytical, lecturing, educated, experienced, clever, distinguished, preaching, respected, bearded, mentoring, dignified, rumpled, distracted, droning, erudite, bumbling, enlightening]
+
+Programmer	[coding, engineering, developing, programming, scripting, debugging, building, hacking]
+
+Promoter	[encouraging, booking, promoting, advertising, marketing, stimulating]
+
+Propagandist	[deceptive, deluded, political, propagandizing, polished, exaggerating, conniving, zealous, lying, popularizing, rationalizing, discredited, calculating]
+
+Prophet	[revered, godly, sharp_sighted, blessed, anointed, hopeful, ordained, saintly, revelatory, honest, farseeing, insightful, honored, infallible, spiritual, fervent, gifted, praying, enlightened, preaching, gloomy, respected, bearded, inspiring, exalted, farsighted, inspired, martyred]
+
+Prosecutor	[accusative]
+
+Psychiatrist	[qualified, prescribing, serious, licensed, smart, perceptive, certified, analytical, treating, interested, educated, curing, interviewing, questioning, examining, understanding, diagnosing, probing]
+
+Psychopath	[remorseless, twisted, stalking, unstable, conscienceless, cruel, inhumane, frightening, paranoid, unfeeling, convicted, killing, raving, disgusting, diagnosed, sinister, menacing, lying, hated, torturing, crazy, ruthless, depraved, terrifying, delusional, chilling, masked, obsessed, selfish, antisocial, vicious, bloodthirsty, manipulative, raging, crazed, nuts, murdering, uncaring, deranged]
+
+Publisher	[publishing, disseminating, advertising, printing]
+
+Pundit	[astute, informed, chattering, learned, sensible, quoted, published, commentating, pontificating, glib, forecasting, preening, theorizing, informative, yakking]
+
+Punk	[edgy, tattooed, flamboyant, agitated, shouting, moody, roaring, screaming, spiky, stomping, electrified, cheeky, growling, grinding, purposeless, bristling, rousing, snarling, crass, pierced, ungrateful, swaggering, howling, rowdy, screeching, raging, rocking, irreverent, blaring, unattractive, studded, irresponsible]
+
+Puppet	[soulless, unelected, biddable, brainwashed, pliable, helpless, animated, inanimate, dancing, jumpy, amusing, subservient, unfree, manipulated, powerless, oblivious, lying, jerked, limp, controlled, mechanical, entertaining, stringed, pliant, mindless, submissive, bumbling]
+
+Queen	[elegant, revered, eminent, lofty, self_indulgent, anointed, pretty, camp, magisterial, fine, famous, scolding, celebrated, imperious, cherished, regal, throned, stately, towering, spoiled, important, contented, beguiling, catty, capricious, laying, aloof, proud, ruling, generous, historical, courtly, fickle, mincing, admired, wealthy, prestigious, respected, charming, untouchable, breeding, reigning, elevated, royal, exalted, deified, beloved, dignified, ladylike, glamorous, magnificent, gay, shopping, lovely, titled, crowned, alluring, questioning, stunning, arrogant, shining, haughty, scheming, mummified, enthroned, consecrated, fresh, fair, worthy, adored, happy, extravagant, content, beautiful, gracious, veiled, majestic, unapproachable, dazzling, grand, poised]
+
+Rabbit	[bounding, agile, startled, hunted, fleeing, trapped, ensnared, crouching, jumping, cornered, hopping, soft, hyperactive, skinned, swift, scared, leaping, fleet, caged, randy, stewed, humping, quick, snared, furry, meek, wary, breeding, running, furred, prolific, braised, flighty, gentle, terrified, lucky, confused, cuddly, horny, timid, fast, frightened, frisky, tame, domesticated, fertile, fuzzy, stunned, playful, skittish, harmless]
+
+Raccoon	[feral, cute, furry, wily, shy, furtive, curious, nocturnal]
+
+Racer	[whizzing, driving, fleet, quick, racing, speedy, speeding, manoeuvrable, accelerating, competing]
+
+Racist	[hostile, twisted, odious, contemptible, spewing, malicious, abhorrent, prejudiced, despicable, vile, raving, xenophobic, superior, vulgar, bigoted, horrid, sinister, obnoxious, divisive, pernicious, crass, narrowminded, hating, abusive, bitter, arrogant, ignorant, ranting, vicious, raging, repulsive, spouting, conservative, criminal, murdering, biased, mindless, unkind, fanatic, loathsome, hateful, insensitive, deranged]
+
+Radical	[disgruntled, clandestine, fighting, extreme, political, crusading, farseeing, dedicated, idealistic, campaigning, ambitious, raving, defiant, radical, ruthless, farsighted, hardened, implacable, protesting, crazed, spouting, progressive]
+
+Rapper	[flamboyant, rapping, dancing, bragging, dissing, brawling, playing, rhyming, swaggering, funky, rocking, partying, singing, reciting]
+
+Rebel	[pertinacious, clandestine, rebellious, fighting, unyielding, dashing, marauding, toppling, irrepressible, uprising, defiant, exiled, marching, rousing, radical, rebelling, revolting, daring, valiant, captured, hardened, protesting, rowdy, opposing, feisty]
+
+Recluse	[self_reliant, unsociable, private, remote, churlish, celibate, alone, unshaven, secluded, cantankerous, reclusive, shy, solitary, antisocial, taciturn, reticent, unattached, grizzled]
+
+Religious Leader	[revered, learned, dedicated, appointed, exiled, respected, inspired]
+
+Reporter	[informed, roving, unbiased, writing, tenacious, dogged, crusading, inquisitive, dashing, intrepid, published, syndicated, descriptive, broadcasting, jaded, harried, accredited, blogging, inquiring, reporting, sharp_eyed, questioning, nosey, hardened, objective, skeptical, biased, investigating, probing]
+
+Revolutionary	[clandestine, armed, rebellious, patriotic, pioneering, indomitable, fighting, suppressed, angry, farseeing, bellowing, adventurous, dashing, ambitious, toppling, defiant, exiled, preaching, rousing, radical, ruthless, fiery, farsighted, belligerent, disillusioned, ranting, turbulent, crazed, spouting, martyred, vigorous]
+
+Rider	[driving, commuting, traveling, riding]
+
+Robber	[looting, unfriendly, armed, fleeing, thieving, convicted, stealing, intruding, killing, prowling, raiding, immoral, daring, unwelcome, masked, robbing, hooded]
+
+Robot	[cold, soulless, uncomplaining, compliant, advanced, inhuman, dispassionate, passionless, unconscious, activated, brainwashed, unnatural, automatic, automated, unfeeling, sophisticated, embodied, tireless, clunky, articulated, inorganic, emotionless, complex, high_tech, heartless, insensate, resilient, amoral, clever, computerized, unthinking, complicated, logical, unemotional, brainless, artificial, menacing, dependent, rigid, stiff, humorless, malfunctioning, perfect, ruthless, hightech, lumbering, flatfooted, predetermined, rational, unsympathetic, faceless, controlled, mechanical, consistent, spamming, hulking, droning, autonomous, indestructible, impersonal, efficient, controllable, numb, determinate, deactivated, mindless, reasoning, mechanized, functioning, programmed, motorized, computerised, calculating]
+
+Role Model	[presentable, pioneering, attractive, encouraging, ideal, leading, admired, respected, inspiring, instructive, worthy, empowering, upstanding]
+
+Royal	[courteous, stately, classy, privileged, superior, prestigious, unapproachable]
+
+Runner	[jumping, jogging, sprinting, fleet, racing, running, athletic, striding]
+
+Sailor	[cussing, swabbing, cruising, fighting, overseas, cursing, seasoned, wayfaring, marooned, uniformed, drinking, swearing, dashing, drowning, salty, stranded, superstitious, lusty, enlisted, shipwrecked, drowned, rambling, rowing, crusty, swarthy, coarse, profane, drunk]
+
+Savant	[intuitive]
+
+Scandalmonger	[aware]
+
+Scholar	[revered, eminent, dispassionate, serious, scholarly, brilliant, learned, teaching, insightful, ardent, honored, intellectual, diligent, educated, clever, articulate, thinking, unworldly, distinguished, cerebral, enlightened, learning, detached, reading, respected, versed, eloquent, assiduous, studying, exacting, reputable, esoteric, impeccable, erudite, systematic, sagacious, thorough, conscientious, researching]
+
+Scientist	[eminent, dispassionate, absentminded, disciplined, noble, scholarly, careful, systematizing, pioneering, mathematical, learned, explaining, knowledgeable, experimental, impartial, insightful, intellectual, analytical, diligent, interested, educated, engineering, clever, experimenting, thinking, clinical, methodical, rigorous, learning, solving, searching, hypothesizing, scientific, honest, discovering, rational, secular, numerate, questioning, obsessed, objective, meticulous, exact, predicting, seeking, theorizing, exploring, skeptical, modeling, convincing, determined, reasoning, specialized, curious, technical, thorough, probing, researching, modern, principled]
+
+Sculptor	[chiseling, artistic, sculpting, molding, shaping, sculpturing, visual, deft, dexterous, creative, carving]
+
+Seamstress	[careful]
+
+Secret Agent	[classified, anonymous, secretive]
+
+Seductress	[debauched, sociable, sensuous, irresistible, flattering, seducing, leggy, enthralling, exotic, voluptuous, conniving, enchanting, beguiling, flirtatious, sinister, charming, tempting, bewitching, tantalizing, alluring, suave, seductive, scheming, manipulative, convincing]
+
+Serial Killer	[coldblooded, monstrous, evil, brutal, barbaric]
+
+Sheriff	[sharp_eyed]
+
+Shopper	[spending, purchasing, buying, shopping, bargain_hunting, window_shopping]
+
+Showman	[flamboyant, gregarious, charismatic]
+
+Shyster	[shifty, streetwise, unethical, seedy, crafty, immoral, disreputable, unscrupulous, unprofessional]
+
+Sibling	[close]
+
+Sidekick	[spunky, plucky, peripheral]
+
+Singer	[performing, artistic, musical, expressive, melodic, sweet_voiced, tuneful, lyrical, auditioning, accompanying, recording, gifted, crooning, showcased, touring, vocal, humming, songful, entertaining, singing, backing]
+
+Sister	[kind, close, frank, gossiping, confiding, trusted, wimpled, loving, dear, affectionate, generous, interfering, bonded, meddling, candid, loved, devoted, cloistered, veiled]
+
+Skeptic	[opinionated, stubborn, unbelieving, dismissing, challenging, doubting, cynical, unsentimental, prudent, jaded, critical, rational, secular, cautious, questioning, hardened, skeptical, hardheaded, unconvinced, incredulous, unpersuaded, debunking]
+
+Skunk	[acrid, spotted, miserable, dumb, contemptible, rotten, pungent, crafty, striped, smelly, stinky, stinking, noxious, roadkilled, mean, lying, burrowing, smelling, foul, hognosed, scheming, repulsive, spraying, disagreeable, drunk, unpleasant]
+
+Slacker	[aimless, freeloading, sluggish, untidy, unproductive, complacent, sleepy, disengaged, easygoing, unreliable, incapable, lazy, sedentary, unemployed, idle, unmotivated, weak, underachieving, carefree, purposeless, lethargic, undistinguished, blogging, unconcerned, apathetic, leisurely, passive, slacking, bored, valueless, laidback, uncouth, unsuccessful, worthless, relaxed, stoned, uninspired, lazing, dozing, mellow]
+
+Slave	[imprisoned, uncomplaining, compliant, disciplined, biddable, tortured, miserable, oppressed, contemptible, stoic, trapped, enslaved, brainwashed, overburdened, dutiful, shackled, trained, tied, chained, industrious, liberated, scared, exhausted, subservient, unfree, punished, brutalized, kidnapped, unhappy, uneducated, tired, powerless, caged, collared, unthinking, beaten, sweating, escaping, escaped, bound, overworked, hardworking, illiterate, worked, abused, meek, dependent, owned, running, cowering, cursed, branded, passive, expendable, whipped, captured, manumitted, unfortunate, indentured, forced, kneeling, condemned, exploited, frightened, trembling, controllable, devoted, restricted, freed, obedient, blindfolded, mindless, manacled, emancipated, humble, malnourished, ordered, inferior, submissive, low_level]
+
+Smuggler	[smuggling, convicted, furtive, dashing, concealing, daring, importing, hardened, guilty, accused]
+
+Snob	[condescending, conceited, complacent, selfrighteous, elitist, malicious, spoiled, dismissive, smug, educated, privileged, boring, impudent, superior, obnoxious, pretentious, impolite, arrogant, haughty, egotistical, sneering, snooty]
+
+Soldier	[looting, serving, erect, armed, disciplined, charging, fierce, fighting, dangerous, commanding, shooting, dutiful, dedicated, trained, uniformed, dashing, injured, wounded, killing, patrolling, courageous, killed, deployed, gruff, armored, discharged, enlisted, marching, regimented, strong, organized, rigid, tough, drafted, formidable, retreating, decorated, armoured, masculine, fit, swaggering, hardened, brave, devoted, obedient, determined, camouflaged, mobilized, vanquished]
+
+Son	[disinherited, close, dutiful, cherished, loving, dear, faithful, estranged, favored, loved, devoted, inheriting, orphaned]
+
+Songwriter	[storytelling, penning, poetic, composing, rhyming, songwriting, authoring, humming, inspired, singing, crafting, romantic, lyrical]
+
+Speaker	[speaking, lecturing, communicating, orating, presenting]
+
+Speculator	[imprudent, shrewd, game, bold, daring, expectant, calculating]
+
+Spinster	[miserable, neat, staid, sheltered, prim, disappointed, repressed, celibate, abstinent, sexless, shy, timid, unattached, chaste]
+
+Sponge	[bloated, thirsty, cleaning, exfoliating, absorbing, petrified, squeezed, scrubbing, sodden, soft, polishing, washing, airy, receptive, cleansing, compressed, absorbent, wet, porous, spongy, limp, moist, ineffective, damp, saturated, dampened, spineless, squishy, ineffectual, moistened, scouring, dripping, soggy, dried, dry, puffy, soaked, permeable, blurred]
+
+Sportsman	[disciplined, coached, dedicated, winning, avid, game, accomplished, gifted, admired, athletic, training, playing, fit, healthy, competing, physical]
+
+Spouse	[solicitous, nagging, betrayed, cheating, forgiving, cherished, compassionate, loving, dear, helpful, supporting, dependable, intimate, cooperative, married, loved, sympathetic, devoted, understanding, wronged]
+
+Spy	[informed, clandestine, treacherous, concealed, lonely, deceptive, inconspicuous, lurking, disguised, sneaky, unprincipled, malicious, inquisitive, unnoticeable, convicted, adaptive, furtive, dashing, intriguing, penetrating, crafty, deceiving, infiltrating, unassuming, unscrupulous, subverting, eavesdropping, hidden, anonymous, invasive, lying, tricky, sneaking, ruthless, daring, tightlipped, silent, watchful, observant, spying, captured, nosey, unwelcome, secretive, devious, surreptitious, aware, trespassing, wiretapping, snooping, intrusive, accused]
+
+Statistician	[mathematical]
+
+Stepmother	[malicious, conniving, vicious, manipulative, wicked, unattractive]
+
+Student	[coached, scholarly, tutored, educated, frugal, learning, enrolling, graduating, mentored, studying, enrolled, young, studious]
+
+Suitor	[adoring, amorous, disappointed, dashing, spurned, charming, pining, jilted, jealous, scorned, besotted, wooing]
+
+Superhero	[soaring, fighting, avenging, celebrated, winged, amazing, brooding, super, invulnerable, caped, mighty, masked, costumed, entertaining, defending]
+
+Swimmer	[toned, floundering, swimming, drowning, tanned, glistening, streamlined, paddling, togged, diving, athletic, submerged, synchronized, fit, buffed, buoyant, smooth]
+
+Swindler	[shifty, unethical, deceptive, conning, cheating, shrewd, convicted, swindling, crafty, duplicitous, immoral, deceiving, disreputable, unscrupulous, glib, charming, lying, tricky, phony, scamming, devious, scheming, manipulative, convincing, dishonest, untruthful, accused]
+
+Teacher	[revered, qualified, strict, patient, learned, smart, tenured, helping, dedicated, teaching, certified, influential, trusted, encouraging, interested, guiding, lecturing, educated, accomplished, helpful, appreciated, intimidating, admired, respected, versed, communicative, valued, accredited, mentoring, caring, training, concerned, instructive, lucid, objective, prepared, venerated, educating, understanding, thorough, enlightening, coaching]
+
+Technologist	[advanced, networking, teaching, educated, engineering, promoting, preaching, designing, evangelizing, specialized, technical, scientific]
+
+Teenager	[misguided, excitable, blushing, adolescent, spotty, rebellious, untidy, whining, spry, troubled, moody, bullied, alienated, reckless, energetic, cheeky, spirited, gangly, naive, skateboarding, fussy, awkward, infatuated, excited, temperamental, brooding, impressionable, giggling, confused, disillusioned, immature, bored, distracted, embarrassed, frisky, susceptible, insecure, youthful, wild, unruly, sulking]
+
+Terrorist	[insidious, disgruntled, misguided, imprisoned, clandestine, jailed, inhuman, hostile, banned, remorseless, armed, twisted, heinous, targeted, bad, concealed, odious, surrendering, hunted, fighting, prohibited, hiding, brainwashed, unforgiving, extreme, shooting, barbarous, pitiless, appalling, infamous, identified, suspected, sponsored, convicted, killing, fearsome, threatening, dreaded, callous, despicable, devastating, feared, proscribed, bigoted, unscrupulous, committed, merciless, horrid, sinister, bombing, suspicious, menacing, hidden, radical, hated, networked, irrational, ruthless, evil, damaging, daring, depraved, hating, chilling, overt, incendiary, branded, indiscriminate, dreadful, alarming, captured, inflamed, masked, hardened, demonic, destructive, vicious, bloodthirsty, condemned, raging, wanted, crazed, arrested, guilty, criminal, murdering, mindless, harmful, determined, wicked, fanatic, hooded, shocking, diabolical, hateful, lethal, irresponsible, deranged, accused, sickening]
+
+Therapist	[qualified, prescribing, licensed, advising, counseling, certified, trusted, analytical, treating, practicing, educated, experienced, discreet, respected, caring, concerned, understanding, diagnosing]
+
+Thief	[looting, agile, plundering, clandestine, low_class, unethical, hunted, fleeing, lurking, sneaky, cheating, thieving, suspected, pursued, convicted, stealing, furtive, conniving, prowling, crooked, deft, raiding, damned, vile, immoral, bold, stealthy, escaping, quick, unscrupulous, dexterous, suspicious, menacing, lying, tricky, incorrigible, sneaking, greedy, daring, silent, branded, sly, devious, masked, hardened, scheming, condemned, wanted, trespassing, attacking, guilty, audacious, corrupt, determined, prodigal, dishonest, hooded, detected, hijacking, wily, accused]
+
+Thug	[looting, beefy, detestable, inhuman, tattooed, armed, low_class, streetwise, bad, conscienceless, fighting, talentless, husky, pugnacious, barbarous, scummy, burly, thieving, screaming, convicted, rioting, killing, hired, threatening, uneducated, violent, disorderly, authoritarian, immoral, gruff, aggressive, intimidating, mugging, brainless, coercive, brawling, sinister, obnoxious, menacing, lying, ruthless, narrowminded, dimwitted, belligerent, masked, hardened, arrogant, hulking, vicious, uncouth, crazed, bullying, brutal, murdering, mindless, hooded, unpleasant, low_level, physical, insensitive, sadistic]
+
+Toady	[compliant, adoring, obsequious, flattering, toadying, groveling, bootlicking, drooling, fawning, sniveling]
+
+Trader	[supplying, selling, exporting, dealing, exchanging, importing, hawking, trading]
+
+Tradesman	[industrious]
+
+Traitor	[insidious, unpatriotic, detestable, treacherous, heinous, unethical, contemptible, deceptive, scummy, cheating, betraying, malicious, infamous, double_crossing, disgraced, convicted, beheaded, callous, duplicitous, immoral, disgraceful, cynical, stinky, leaking, backstabbing, unscrupulous, lying, unfaithful, despised, ungrateful, branded, secretive, scheming, condemned, self_serving, corrupt, slimy, insensitive, accused]
+
+Transvestite	[concealed, camp, flamboyant, disguised, kinky, husky, deluded, pretending, cross_dressing, unattractive]
+
+Tree	[withered, transplanted, noble, big, sturdy, climbing, motionless, large, pretty, unconscious, flowering, dumb, leaning, fixed, inanimate, felled, uprooted, straight, cultivated, rooted, towering, trimmed, shaking, high, nested, wooden, natural, knotted, organic, solid, flourishing, branching, thick, weathered, planted, strong, organized, still, stiff, tough, three_dimensional, unresponsive, sheltering, whispering, unmoving, hierarchical, layered, lovely, green, gnarled, structured, swaying, insensible, blooming, pruned, blossoming, denuded, alive, tall, chopped, branched, beautiful, budding, ripening]
+
+Trickster	[shifty, duplicitous, tricky, devious, manipulative, unkind]
+
+Trumpeter	[blowing, fingering, playing, tooting, trumpeting, blaring]
+
+Tycoon	[enriched, successful, self_indulgent, free_spending, showy, moneyed, ostentatious, flashy, influential, ambitious, spoiled, affluent, privileged, wealthy, pampered, ruthless, freewheeling, devious, extravagant, decadent, rich, respected]
+
+Tyrant	[unconstitutional, coldblooded, detestable, inhuman, strict, remorseless, heinous, grim, bad, odious, inhumane, cruel, contemptible, barbarous, paranoid, pitiless, domineering, unfeeling, malicious, infamous, imperious, insatiable, abhorrent, ambitious, terrible, overbearing, killing, conquering, threatening, heartless, dogmatic, violent, capricious, authoritarian, monstrous, despicable, vile, immoral, ruling, cynical, lordly, exiled, intimidating, controlling, unscrupulous, merciless, unreasonable, sinister, mean, hated, reigning, dictatorial, ruthless, evil, depraved, nasty, governing, unsympathetic, belligerent, vindictive, persecuting, despised, dreadful, dominant, devious, arrogant, demonic, haughty, vicious, bloodthirsty, manipulative, raging, crazed, self_serving, bullying, demanding, brutal, criminal, tyrannical, murdering, stern, unkind, oppressive, wicked, loathsome, oppressing, enraged, unpleasant, hateful, deranged, sadistic]
+
+Vagabond	[aimless, tattered, low_class, hungry, miserable, roving, panhandling, thieving, restless, wandering, destitute, homeless, roaming, skint, starving, smelly, stinky, carefree, unpopular, unshaven, worn, purposeless, disheveled, rumpled, broke, shabby, wretched, begging, humble, ragged]
+
+Vampire	[soulless, aging, thirsty, stalking, nocturnal, frightening, predatory, cadaverous, pitiless, unnatural, insatiable, killing, beguiling, monstrous, dead, scary, sucking, fanged, immortal, spooky, merciless, eerie, ravenous, reanimated, sinister, charming, brooding, ruthless, evil, hunting, risen, terrifying, cursed, gruesome, alluring, supernatural, demonic, bloodthirsty, crazed, resurrected, murdering, wicked, diabolical, deranged, horrifying]
+
+Veteran	[expert, astute, skillful, patriotic, tested, competent, seasoned, sensible, celebrated, winning, trusted, polished, injured, returning, crafty, experienced, capable, gruff, authoritative, dependable, distinguished, admired, deserving, jaded, mature, weathered, respected, versed, retired, decorated, training, gnarled, hardened, canny, crusty, steely, able, scarred, assured, disabled, grizzled, coaching]
+
+Vigilante	[unauthorized, armed, grim, unforgiving, accusative, avenging, reckless, cynical, furious, merciless, vigilant, ruthless, hunting, vindictive, sharp_eyed, masked, hardened, obsessed, costumed, bloodthirsty, crazed, irresponsible]
+
+Villain	[dastardly, misguided, detestable, inhuman, remorseless, treacherous, heinous, spellbinding, unethical, odious, fleeing, cackling, grimacing, mesmerizing, malicious, suspected, abhorrent, dashing, ambitious, intriguing, overbearing, conniving, threatening, dreaded, doomed, callous, damned, despicable, immoral, feared, impudent, spooky, unscrupulous, deceitful, disgusting, merciless, sinister, suspicious, menacing, charming, snarling, lying, hated, incorrigible, brooding, ruthless, evil, formidable, daring, depraved, unsympathetic, chilling, despised, dreadful, devious, masked, hardened, obsessed, demonic, scheming, vicious, repulsive, wanted, crazed, leering, guilty, murdering, scarred, determined, hooded, loathsome, alleged, diabolical, hateful, cunning, deranged]
+
+Visionary	[eminent, philosophical, sharp_sighted, pioneering, strategizing, farseeing, masterful, intellectual, ambitious, clever, bold, thinking, unworldly, planning, enlightened, respected, inspiring, strategic, farsighted, dreaming, envisioning, enterprising, mercurial, lucid, proposing, predicting, inspired, building]
+
+Voyeur	[stalking, peeping, sneaky, kinky, inquisitive, weird, furtive, monitoring, sleazy, eavesdropping, observant, spying, surreptitious, leering, snooping, naughty, filthy, perverted]
+
+Wanderer	[aimless, wayfaring, restless, intrepid, untethered, homeless, carefree, purposeless, rambling, inattentive]
+
+Warrior	[wrestling, beefy, hotheaded, armed, disciplined, noble, fearless, grim, powerful, charging, stoic, indomitable, fierce, forceful, fighting, dangerous, husky, barbarous, burly, tenacious, seasoned, crusading, purposeful, trained, full_blooded, adventurous, undefeated, steadfast, trusted, honored, dashing, marauding, wounded, conquering, fearsome, fervent, feral, raiding, heroic, undaunted, courageous, defensive, bold, deployed, gruff, feared, armored, assertive, defiant, solid, lusty, brutish, aggressive, intimidating, quick, strong, bearded, ruthless, formidable, hunting, mounted, painted, exalted, daring, uncompromising, magnificent, decorated, robust, masculine, valiant, mighty, imposing, hardened, howling, demonic, destructive, brave, brash, vicious, bloodthirsty, raging, taciturn, defending, crazed, brutal, attacking, able, stern, determined, rampaging, enraged, vigorous, feisty, invading, majestic, pugilistic, grizzled, vanquished]
+
+Whistleblower	[courageous, defiant]
+
+Widow	[weeping, restrained, lonely, depressed, lamenting, wailing, mourning, grieving, destitute, surviving, black, bereft, distressed, forlorn, devastated, mournful, bereaved, sorrowing, dour, faithful, sobbing, dignified, sorrowful, sad, keening, disconsolate, insured, devoted, despairing, crying, veiled]
+
+Wife	[solicitous, nagging, newlywed, dutiful, scolding, thoughtful, trusted, spurned, compassionate, loving, dear, affectionate, helpful, appreciated, supportive, pouting, committed, doting, true, abused, faithful, wedded, female, nurturing, concerned, married, loved, jilted, sympathetic, adored, devoted, understanding, wronged]
+
+Wizard	[expert, skillful, twisted, cowled, spellbinding, awesome, fighting, competent, sophisticated, celebrated, masterful, corrupted, skilled, dreaded, robed, capable, accomplished, feared, gifted, cantankerous, respected, bearded, amazing, magnificent, healing, mighty, secretive, canny, resurrected, able, magical, wise, calculative]
+
+Womanizer	[flattering, amoral, sleazy, lusty, seductive, charismatic, outgoing, lecherous, prodigal, compulsive]
+
+Wrestler	[wrestling, beefy, grappling, performing, big, brawny, stout, fighting, husky, pugnacious, burly, slamming, aggressive, thick, strong, muscular, athletic, bulky, robust, fit, dominant, masked, hulking, stamping, rough, hefty, buff, physical]
+
+Writer	[learned, writing, honest, thoughtful, speaking, unpublished, published, syndicated, articulate, penning, eloquent, sparkling, blogging, reporting, illuminating, rambling, composing, authoring, inspired, blocked, crafting, uncredited, credited, cited]
+
+Wrongdoer	[charged, convicted, punished, hardened, arrested, accused]
+
+Zealot	[misguided, unequivocal, eager, selfrighteous, brainwashed, extreme, myopic, staunch, dedicated, righteous, idealistic, unyielding, steadfast, stubborn, irrepressible, fervent, motivated, keen, zealous, raving, assertive, committed, radical, passionate, evangelical, humorless, enthusiastic, irrational, narrowminded, uncompromising, singleminded, insistent, assiduous, driven, impassioned, intense, implacable, confrontational, obsessed, focused, crazed, resolute, spouting, devoted, mindless, determined, fanatic, unwavering, unflinching, vigorous, partisan, earnest, humourless, polarized]
